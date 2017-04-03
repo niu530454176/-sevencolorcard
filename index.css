@@ -1,0 +1,7738 @@
+@charset "UTF-8";
+/*定义颜色的变量*/
+.swatches li {
+  width: 4.7619047619%;
+  float: left;
+  height: 60px;
+  list-style: none outside none;
+}
+
+ul.red li:nth-child(10) {
+  background-color: #eb1f48;
+}
+ul.red li:nth-child(10):hover:before {
+  content: "#eb1f48";
+  color: #38050f;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(9) {
+  background-color: #ed365b;
+}
+ul.red li:nth-child(9):hover:before {
+  content: "#ed365b";
+  color: #500716;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(8) {
+  background-color: #ef4e6e;
+}
+ul.red li:nth-child(8):hover:before {
+  content: "#ef4e6e";
+  color: #67091c;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(7) {
+  background-color: #f16581;
+}
+ul.red li:nth-child(7):hover:before {
+  content: "#f16581";
+  color: #7f0c23;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(6) {
+  background-color: #f37c94;
+}
+ul.red li:nth-child(6):hover:before {
+  content: "#f37c94";
+  color: #960e29;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(5) {
+  background-color: #f594a7;
+}
+ul.red li:nth-child(5):hover:before {
+  content: "#f594a7";
+  color: #ad102f;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(4) {
+  background-color: #f7abba;
+}
+ul.red li:nth-child(4):hover:before {
+  content: "#f7abba";
+  color: #c51236;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(3) {
+  background-color: #fac3ce;
+}
+ul.red li:nth-child(3):hover:before {
+  content: "#fac3ce";
+  color: crimson;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(2) {
+  background-color: #fcdae1;
+}
+ul.red li:nth-child(2):hover:before {
+  content: "#fcdae1";
+  color: #eb1f48;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(1) {
+  background-color: #fef1f4;
+}
+ul.red li:nth-child(1):hover:before {
+  content: "#fef1f4";
+  color: #ed365b;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(102) {
+  background-color: crimson;
+}
+ul.red li:nth-child(102):hover:before {
+  content: "crimson";
+  color: #f9c2cd;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(103) {
+  background-color: crimson;
+}
+ul.red li:nth-child(103):hover:before {
+  content: "crimson";
+  color: #f9c2cd;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(104) {
+  background-color: #db143c;
+}
+ul.red li:nth-child(104):hover:before {
+  content: "#db143c";
+  color: #f9c2cd;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(105) {
+  background-color: #db143c;
+}
+ul.red li:nth-child(105):hover:before {
+  content: "#db143c";
+  color: #f9c2cd;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(106) {
+  background-color: #db143c;
+}
+ul.red li:nth-child(106):hover:before {
+  content: "#db143c";
+  color: #f9c1cd;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(107) {
+  background-color: #db143c;
+}
+ul.red li:nth-child(107):hover:before {
+  content: "#db143c";
+  color: #f9c1cc;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(108) {
+  background-color: #da143c;
+}
+ul.red li:nth-child(108):hover:before {
+  content: "#da143c";
+  color: #f9c1cc;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(109) {
+  background-color: #da143b;
+}
+ul.red li:nth-child(109):hover:before {
+  content: "#da143b";
+  color: #f9c1cc;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(110) {
+  background-color: #da143b;
+}
+ul.red li:nth-child(110):hover:before {
+  content: "#da143b";
+  color: #f9c0cc;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(111) {
+  background-color: #da143b;
+}
+ul.red li:nth-child(111):hover:before {
+  content: "#da143b";
+  color: #f9c0cc;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(112) {
+  background-color: #d9143b;
+}
+ul.red li:nth-child(112):hover:before {
+  content: "#d9143b";
+  color: #f9c0cb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(113) {
+  background-color: #d9143b;
+}
+ul.red li:nth-child(113):hover:before {
+  content: "#d9143b";
+  color: #f9c0cb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(114) {
+  background-color: #d9143b;
+}
+ul.red li:nth-child(114):hover:before {
+  content: "#d9143b";
+  color: #f9bfcb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(115) {
+  background-color: #d9143b;
+}
+ul.red li:nth-child(115):hover:before {
+  content: "#d9143b";
+  color: #f9bfcb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(116) {
+  background-color: #d8143b;
+}
+ul.red li:nth-child(116):hover:before {
+  content: "#d8143b";
+  color: #f9bfcb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(117) {
+  background-color: #d8143b;
+}
+ul.red li:nth-child(117):hover:before {
+  content: "#d8143b";
+  color: #f9bfca;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(118) {
+  background-color: #d8143b;
+}
+ul.red li:nth-child(118):hover:before {
+  content: "#d8143b";
+  color: #f9bfca;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(119) {
+  background-color: #d8143b;
+}
+ul.red li:nth-child(119):hover:before {
+  content: "#d8143b";
+  color: #f9beca;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(120) {
+  background-color: #d8143b;
+}
+ul.red li:nth-child(120):hover:before {
+  content: "#d8143b";
+  color: #f9beca;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(121) {
+  background-color: #d7143b;
+}
+ul.red li:nth-child(121):hover:before {
+  content: "#d7143b";
+  color: #f9beca;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(122) {
+  background-color: #d7143b;
+}
+ul.red li:nth-child(122):hover:before {
+  content: "#d7143b";
+  color: #f9bec9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(123) {
+  background-color: #d7143b;
+}
+ul.red li:nth-child(123):hover:before {
+  content: "#d7143b";
+  color: #f9bdc9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(124) {
+  background-color: #d7143b;
+}
+ul.red li:nth-child(124):hover:before {
+  content: "#d7143b";
+  color: #f9bdc9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(125) {
+  background-color: #d6133a;
+}
+ul.red li:nth-child(125):hover:before {
+  content: "#d6133a";
+  color: #f9bdc9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(126) {
+  background-color: #d6133a;
+}
+ul.red li:nth-child(126):hover:before {
+  content: "#d6133a";
+  color: #f9bdc9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(127) {
+  background-color: #d6133a;
+}
+ul.red li:nth-child(127):hover:before {
+  content: "#d6133a";
+  color: #f9bcc9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(128) {
+  background-color: #d6133a;
+}
+ul.red li:nth-child(128):hover:before {
+  content: "#d6133a";
+  color: #f9bcc8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(129) {
+  background-color: #d5133a;
+}
+ul.red li:nth-child(129):hover:before {
+  content: "#d5133a";
+  color: #f9bcc8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(130) {
+  background-color: #d5133a;
+}
+ul.red li:nth-child(130):hover:before {
+  content: "#d5133a";
+  color: #f9bcc8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(131) {
+  background-color: #d5133a;
+}
+ul.red li:nth-child(131):hover:before {
+  content: "#d5133a";
+  color: #f9bbc8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(132) {
+  background-color: #d5133a;
+}
+ul.red li:nth-child(132):hover:before {
+  content: "#d5133a";
+  color: #f9bbc8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(133) {
+  background-color: #d5133a;
+}
+ul.red li:nth-child(133):hover:before {
+  content: "#d5133a";
+  color: #f9bbc7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(134) {
+  background-color: #d4133a;
+}
+ul.red li:nth-child(134):hover:before {
+  content: "#d4133a";
+  color: #f9bbc7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(135) {
+  background-color: #d4133a;
+}
+ul.red li:nth-child(135):hover:before {
+  content: "#d4133a";
+  color: #f9bbc7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(136) {
+  background-color: #d4133a;
+}
+ul.red li:nth-child(136):hover:before {
+  content: "#d4133a";
+  color: #f9bac7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(137) {
+  background-color: #d4133a;
+}
+ul.red li:nth-child(137):hover:before {
+  content: "#d4133a";
+  color: #f9bac7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(138) {
+  background-color: #d3133a;
+}
+ul.red li:nth-child(138):hover:before {
+  content: "#d3133a";
+  color: #f9bac6;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(139) {
+  background-color: #d3133a;
+}
+ul.red li:nth-child(139):hover:before {
+  content: "#d3133a";
+  color: #f9bac6;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(140) {
+  background-color: #d3133a;
+}
+ul.red li:nth-child(140):hover:before {
+  content: "#d3133a";
+  color: #f9b9c6;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(141) {
+  background-color: #d31339;
+}
+ul.red li:nth-child(141):hover:before {
+  content: "#d31339";
+  color: #f9b9c6;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(142) {
+  background-color: #d21339;
+}
+ul.red li:nth-child(142):hover:before {
+  content: "#d21339";
+  color: #f9b9c6;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(143) {
+  background-color: #d21339;
+}
+ul.red li:nth-child(143):hover:before {
+  content: "#d21339";
+  color: #f9b9c5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(144) {
+  background-color: #d21339;
+}
+ul.red li:nth-child(144):hover:before {
+  content: "#d21339";
+  color: #f9b8c5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(145) {
+  background-color: #d21339;
+}
+ul.red li:nth-child(145):hover:before {
+  content: "#d21339";
+  color: #f9b8c5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(146) {
+  background-color: #d11339;
+}
+ul.red li:nth-child(146):hover:before {
+  content: "#d11339";
+  color: #f9b8c5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(147) {
+  background-color: #d11339;
+}
+ul.red li:nth-child(147):hover:before {
+  content: "#d11339";
+  color: #f9b8c5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(148) {
+  background-color: #d11339;
+}
+ul.red li:nth-child(148):hover:before {
+  content: "#d11339";
+  color: #f9b8c5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(149) {
+  background-color: #d11339;
+}
+ul.red li:nth-child(149):hover:before {
+  content: "#d11339";
+  color: #f8b7c4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(150) {
+  background-color: #d11339;
+}
+ul.red li:nth-child(150):hover:before {
+  content: "#d11339";
+  color: #f8b7c4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(151) {
+  background-color: #d01339;
+}
+ul.red li:nth-child(151):hover:before {
+  content: "#d01339";
+  color: #f8b7c4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(152) {
+  background-color: #d01339;
+}
+ul.red li:nth-child(152):hover:before {
+  content: "#d01339";
+  color: #f8b7c4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(153) {
+  background-color: #d01339;
+}
+ul.red li:nth-child(153):hover:before {
+  content: "#d01339";
+  color: #f8b6c4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(154) {
+  background-color: #d01339;
+}
+ul.red li:nth-child(154):hover:before {
+  content: "#d01339";
+  color: #f8b6c3;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(155) {
+  background-color: #cf1339;
+}
+ul.red li:nth-child(155):hover:before {
+  content: "#cf1339";
+  color: #f8b6c3;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(156) {
+  background-color: #cf1338;
+}
+ul.red li:nth-child(156):hover:before {
+  content: "#cf1338";
+  color: #f8b6c3;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(157) {
+  background-color: #cf1338;
+}
+ul.red li:nth-child(157):hover:before {
+  content: "#cf1338";
+  color: #f8b5c3;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(158) {
+  background-color: #cf1338;
+}
+ul.red li:nth-child(158):hover:before {
+  content: "#cf1338";
+  color: #f8b5c3;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(159) {
+  background-color: #ce1338;
+}
+ul.red li:nth-child(159):hover:before {
+  content: "#ce1338";
+  color: #f8b5c2;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(160) {
+  background-color: #ce1338;
+}
+ul.red li:nth-child(160):hover:before {
+  content: "#ce1338";
+  color: #f8b5c2;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(161) {
+  background-color: #ce1338;
+}
+ul.red li:nth-child(161):hover:before {
+  content: "#ce1338";
+  color: #f8b4c2;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(162) {
+  background-color: #ce1338;
+}
+ul.red li:nth-child(162):hover:before {
+  content: "#ce1338";
+  color: #f8b4c2;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(163) {
+  background-color: #ce1338;
+}
+ul.red li:nth-child(163):hover:before {
+  content: "#ce1338";
+  color: #f8b4c2;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(164) {
+  background-color: #cd1338;
+}
+ul.red li:nth-child(164):hover:before {
+  content: "#cd1338";
+  color: #f8b4c1;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(165) {
+  background-color: #cd1338;
+}
+ul.red li:nth-child(165):hover:before {
+  content: "#cd1338";
+  color: #f8b4c1;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(166) {
+  background-color: #cd1338;
+}
+ul.red li:nth-child(166):hover:before {
+  content: "#cd1338";
+  color: #f8b3c1;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(167) {
+  background-color: #cd1338;
+}
+ul.red li:nth-child(167):hover:before {
+  content: "#cd1338";
+  color: #f8b3c1;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(168) {
+  background-color: #cc1338;
+}
+ul.red li:nth-child(168):hover:before {
+  content: "#cc1338";
+  color: #f8b3c1;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(169) {
+  background-color: #cc1338;
+}
+ul.red li:nth-child(169):hover:before {
+  content: "#cc1338";
+  color: #f8b3c0;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(170) {
+  background-color: #cc1338;
+}
+ul.red li:nth-child(170):hover:before {
+  content: "#cc1338";
+  color: #f8b2c0;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(171) {
+  background-color: #cc1338;
+}
+ul.red li:nth-child(171):hover:before {
+  content: "#cc1338";
+  color: #f8b2c0;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(172) {
+  background-color: #cb1237;
+}
+ul.red li:nth-child(172):hover:before {
+  content: "#cb1237";
+  color: #f8b2c0;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(173) {
+  background-color: #cb1237;
+}
+ul.red li:nth-child(173):hover:before {
+  content: "#cb1237";
+  color: #f8b2c0;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(174) {
+  background-color: #cb1237;
+}
+ul.red li:nth-child(174):hover:before {
+  content: "#cb1237";
+  color: #f8b1c0;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(175) {
+  background-color: #cb1237;
+}
+ul.red li:nth-child(175):hover:before {
+  content: "#cb1237";
+  color: #f8b1bf;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(176) {
+  background-color: #ca1237;
+}
+ul.red li:nth-child(176):hover:before {
+  content: "#ca1237";
+  color: #f8b1bf;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(177) {
+  background-color: #ca1237;
+}
+ul.red li:nth-child(177):hover:before {
+  content: "#ca1237";
+  color: #f8b1bf;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(178) {
+  background-color: #ca1237;
+}
+ul.red li:nth-child(178):hover:before {
+  content: "#ca1237";
+  color: #f8b1bf;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(179) {
+  background-color: #ca1237;
+}
+ul.red li:nth-child(179):hover:before {
+  content: "#ca1237";
+  color: #f8b0bf;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(180) {
+  background-color: #ca1237;
+}
+ul.red li:nth-child(180):hover:before {
+  content: "#ca1237";
+  color: #f8b0be;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(181) {
+  background-color: #c91237;
+}
+ul.red li:nth-child(181):hover:before {
+  content: "#c91237";
+  color: #f8b0be;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(182) {
+  background-color: #c91237;
+}
+ul.red li:nth-child(182):hover:before {
+  content: "#c91237";
+  color: #f8b0be;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(183) {
+  background-color: #c91237;
+}
+ul.red li:nth-child(183):hover:before {
+  content: "#c91237";
+  color: #f8afbe;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(184) {
+  background-color: #c91237;
+}
+ul.red li:nth-child(184):hover:before {
+  content: "#c91237";
+  color: #f8afbe;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(185) {
+  background-color: #c81237;
+}
+ul.red li:nth-child(185):hover:before {
+  content: "#c81237";
+  color: #f8afbd;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(186) {
+  background-color: #c81237;
+}
+ul.red li:nth-child(186):hover:before {
+  content: "#c81237";
+  color: #f8afbd;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(187) {
+  background-color: #c81237;
+}
+ul.red li:nth-child(187):hover:before {
+  content: "#c81237";
+  color: #f8aebd;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(188) {
+  background-color: #c81236;
+}
+ul.red li:nth-child(188):hover:before {
+  content: "#c81236";
+  color: #f8aebd;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(189) {
+  background-color: #c71236;
+}
+ul.red li:nth-child(189):hover:before {
+  content: "#c71236";
+  color: #f8aebd;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(190) {
+  background-color: #c71236;
+}
+ul.red li:nth-child(190):hover:before {
+  content: "#c71236";
+  color: #f8aebc;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(191) {
+  background-color: #c71236;
+}
+ul.red li:nth-child(191):hover:before {
+  content: "#c71236";
+  color: #f8adbc;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(192) {
+  background-color: #c71236;
+}
+ul.red li:nth-child(192):hover:before {
+  content: "#c71236";
+  color: #f8adbc;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(193) {
+  background-color: #c61236;
+}
+ul.red li:nth-child(193):hover:before {
+  content: "#c61236";
+  color: #f8adbc;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(194) {
+  background-color: #c61236;
+}
+ul.red li:nth-child(194):hover:before {
+  content: "#c61236";
+  color: #f8adbc;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(195) {
+  background-color: #c61236;
+}
+ul.red li:nth-child(195):hover:before {
+  content: "#c61236";
+  color: #f8adbc;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(196) {
+  background-color: #c61236;
+}
+ul.red li:nth-child(196):hover:before {
+  content: "#c61236";
+  color: #f7acbb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(197) {
+  background-color: #c61236;
+}
+ul.red li:nth-child(197):hover:before {
+  content: "#c61236";
+  color: #f7acbb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(198) {
+  background-color: #c51236;
+}
+ul.red li:nth-child(198):hover:before {
+  content: "#c51236";
+  color: #f7acbb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(199) {
+  background-color: #c51236;
+}
+ul.red li:nth-child(199):hover:before {
+  content: "#c51236";
+  color: #f7acbb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(200) {
+  background-color: #c51236;
+}
+ul.red li:nth-child(200):hover:before {
+  content: "#c51236";
+  color: #f7abbb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(201) {
+  background-color: #c51236;
+}
+ul.red li:nth-child(201):hover:before {
+  content: "#c51236";
+  color: #f7abba;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.red li:nth-child(11) {
+  background-color: #DC143C;
+}
+
+ul.orange li:nth-child(10) {
+  background-color: #f4882f;
+}
+ul.orange li:nth-child(10):hover:before {
+  content: "#f4882f";
+  color: #532804;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(9) {
+  background-color: #f69647;
+}
+ul.orange li:nth-child(9):hover:before {
+  content: "#f69647";
+  color: #6b3305;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(8) {
+  background-color: #f7a35f;
+}
+ul.orange li:nth-child(8):hover:before {
+  content: "#f7a35f";
+  color: #833f07;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(7) {
+  background-color: #f8b177;
+}
+ul.orange li:nth-child(7):hover:before {
+  content: "#f8b177";
+  color: #9c4a08;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(6) {
+  background-color: #f9bf90;
+}
+ul.orange li:nth-child(6):hover:before {
+  content: "#f9bf90";
+  color: #b45609;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(5) {
+  background-color: #fbcda8;
+}
+ul.orange li:nth-child(5):hover:before {
+  content: "#fbcda8";
+  color: #cc620a;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(4) {
+  background-color: #fcdbc0;
+}
+ul.orange li:nth-child(4):hover:before {
+  content: "#fcdbc0";
+  color: #e46d0c;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(3) {
+  background-color: #fde9d8;
+}
+ul.orange li:nth-child(3):hover:before {
+  content: "#fde9d8";
+  color: #f37a16;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(2) {
+  background-color: #fef7f1;
+}
+ul.orange li:nth-child(2):hover:before {
+  content: "#fef7f1";
+  color: #f4882f;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(1) {
+  background-color: white;
+}
+ul.orange li:nth-child(1):hover:before {
+  content: "white";
+  color: #f5903d;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(102) {
+  background-color: #f37a16;
+}
+ul.orange li:nth-child(102):hover:before {
+  content: "#f37a16";
+  color: #fde9d8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(103) {
+  background-color: #f37916;
+}
+ul.orange li:nth-child(103):hover:before {
+  content: "#f37916";
+  color: #fde9d8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(104) {
+  background-color: #f37916;
+}
+ul.orange li:nth-child(104):hover:before {
+  content: "#f37916";
+  color: #fde9d8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(105) {
+  background-color: #f37915;
+}
+ul.orange li:nth-child(105):hover:before {
+  content: "#f37915";
+  color: #fde8d7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(106) {
+  background-color: #f37915;
+}
+ul.orange li:nth-child(106):hover:before {
+  content: "#f37915";
+  color: #fde8d7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(107) {
+  background-color: #f37915;
+}
+ul.orange li:nth-child(107):hover:before {
+  content: "#f37915";
+  color: #fde8d7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(108) {
+  background-color: #f37915;
+}
+ul.orange li:nth-child(108):hover:before {
+  content: "#f37915";
+  color: #fde8d7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(109) {
+  background-color: #f37914;
+}
+ul.orange li:nth-child(109):hover:before {
+  content: "#f37914";
+  color: #fde8d7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(110) {
+  background-color: #f37814;
+}
+ul.orange li:nth-child(110):hover:before {
+  content: "#f37814";
+  color: #fde8d6;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(111) {
+  background-color: #f37814;
+}
+ul.orange li:nth-child(111):hover:before {
+  content: "#f37814";
+  color: #fde8d6;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(112) {
+  background-color: #f37814;
+}
+ul.orange li:nth-child(112):hover:before {
+  content: "#f37814";
+  color: #fde7d6;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(113) {
+  background-color: #f37813;
+}
+ul.orange li:nth-child(113):hover:before {
+  content: "#f37813";
+  color: #fde7d6;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(114) {
+  background-color: #f37813;
+}
+ul.orange li:nth-child(114):hover:before {
+  content: "#f37813";
+  color: #fde7d5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(115) {
+  background-color: #f37813;
+}
+ul.orange li:nth-child(115):hover:before {
+  content: "#f37813";
+  color: #fde7d5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(116) {
+  background-color: #f37813;
+}
+ul.orange li:nth-child(116):hover:before {
+  content: "#f37813";
+  color: #fde7d5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(117) {
+  background-color: #f37712;
+}
+ul.orange li:nth-child(117):hover:before {
+  content: "#f37712";
+  color: #fde7d5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(118) {
+  background-color: #f37712;
+}
+ul.orange li:nth-child(118):hover:before {
+  content: "#f37712";
+  color: #fde7d4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(119) {
+  background-color: #f37712;
+}
+ul.orange li:nth-child(119):hover:before {
+  content: "#f37712";
+  color: #fde6d4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(120) {
+  background-color: #f37712;
+}
+ul.orange li:nth-child(120):hover:before {
+  content: "#f37712";
+  color: #fde6d4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(121) {
+  background-color: #f37711;
+}
+ul.orange li:nth-child(121):hover:before {
+  content: "#f37711";
+  color: #fde6d4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(122) {
+  background-color: #f37711;
+}
+ul.orange li:nth-child(122):hover:before {
+  content: "#f37711";
+  color: #fde6d3;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(123) {
+  background-color: #f37711;
+}
+ul.orange li:nth-child(123):hover:before {
+  content: "#f37711";
+  color: #fde6d3;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(124) {
+  background-color: #f37711;
+}
+ul.orange li:nth-child(124):hover:before {
+  content: "#f37711";
+  color: #fde6d3;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(125) {
+  background-color: #f37610;
+}
+ul.orange li:nth-child(125):hover:before {
+  content: "#f37610";
+  color: #fde6d3;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(126) {
+  background-color: #f37610;
+}
+ul.orange li:nth-child(126):hover:before {
+  content: "#f37610";
+  color: #fde5d2;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(127) {
+  background-color: #f37610;
+}
+ul.orange li:nth-child(127):hover:before {
+  content: "#f37610";
+  color: #fde5d2;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(128) {
+  background-color: #f37610;
+}
+ul.orange li:nth-child(128):hover:before {
+  content: "#f37610";
+  color: #fde5d2;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(129) {
+  background-color: #f37610;
+}
+ul.orange li:nth-child(129):hover:before {
+  content: "#f37610";
+  color: #fde5d2;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(130) {
+  background-color: #f3760f;
+}
+ul.orange li:nth-child(130):hover:before {
+  content: "#f3760f";
+  color: #fde5d1;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(131) {
+  background-color: #f3760f;
+}
+ul.orange li:nth-child(131):hover:before {
+  content: "#f3760f";
+  color: #fde5d1;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(132) {
+  background-color: #f3750f;
+}
+ul.orange li:nth-child(132):hover:before {
+  content: "#f3750f";
+  color: #fde5d1;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(133) {
+  background-color: #f3750f;
+}
+ul.orange li:nth-child(133):hover:before {
+  content: "#f3750f";
+  color: #fde4d1;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(134) {
+  background-color: #f3750e;
+}
+ul.orange li:nth-child(134):hover:before {
+  content: "#f3750e";
+  color: #fde4d0;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(135) {
+  background-color: #f3750e;
+}
+ul.orange li:nth-child(135):hover:before {
+  content: "#f3750e";
+  color: #fde4d0;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(136) {
+  background-color: #f3750e;
+}
+ul.orange li:nth-child(136):hover:before {
+  content: "#f3750e";
+  color: #fde4d0;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(137) {
+  background-color: #f3750e;
+}
+ul.orange li:nth-child(137):hover:before {
+  content: "#f3750e";
+  color: #fde4d0;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(138) {
+  background-color: #f3750d;
+}
+ul.orange li:nth-child(138):hover:before {
+  content: "#f3750d";
+  color: #fde4cf;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(139) {
+  background-color: #f3740d;
+}
+ul.orange li:nth-child(139):hover:before {
+  content: "#f3740d";
+  color: #fde4cf;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(140) {
+  background-color: #f3740d;
+}
+ul.orange li:nth-child(140):hover:before {
+  content: "#f3740d";
+  color: #fde3cf;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(141) {
+  background-color: #f3740d;
+}
+ul.orange li:nth-child(141):hover:before {
+  content: "#f3740d";
+  color: #fde3cf;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(142) {
+  background-color: #f3740c;
+}
+ul.orange li:nth-child(142):hover:before {
+  content: "#f3740c";
+  color: #fde3cf;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(143) {
+  background-color: #f2740c;
+}
+ul.orange li:nth-child(143):hover:before {
+  content: "#f2740c";
+  color: #fde3ce;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(144) {
+  background-color: #f2740c;
+}
+ul.orange li:nth-child(144):hover:before {
+  content: "#f2740c";
+  color: #fde3ce;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(145) {
+  background-color: #f2740c;
+}
+ul.orange li:nth-child(145):hover:before {
+  content: "#f2740c";
+  color: #fde3ce;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(146) {
+  background-color: #f2740c;
+}
+ul.orange li:nth-child(146):hover:before {
+  content: "#f2740c";
+  color: #fce3ce;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(147) {
+  background-color: #f2730c;
+}
+ul.orange li:nth-child(147):hover:before {
+  content: "#f2730c";
+  color: #fce3cd;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(148) {
+  background-color: #f1730c;
+}
+ul.orange li:nth-child(148):hover:before {
+  content: "#f1730c";
+  color: #fce2cd;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(149) {
+  background-color: #f1730c;
+}
+ul.orange li:nth-child(149):hover:before {
+  content: "#f1730c";
+  color: #fce2cd;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(150) {
+  background-color: #f1730c;
+}
+ul.orange li:nth-child(150):hover:before {
+  content: "#f1730c";
+  color: #fce2cd;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(151) {
+  background-color: #f1730c;
+}
+ul.orange li:nth-child(151):hover:before {
+  content: "#f1730c";
+  color: #fce2cc;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(152) {
+  background-color: #f0730c;
+}
+ul.orange li:nth-child(152):hover:before {
+  content: "#f0730c";
+  color: #fce2cc;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(153) {
+  background-color: #f0730c;
+}
+ul.orange li:nth-child(153):hover:before {
+  content: "#f0730c";
+  color: #fce2cc;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(154) {
+  background-color: #f0730c;
+}
+ul.orange li:nth-child(154):hover:before {
+  content: "#f0730c";
+  color: #fce2cc;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(155) {
+  background-color: #f0720c;
+}
+ul.orange li:nth-child(155):hover:before {
+  content: "#f0720c";
+  color: #fce1cb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(156) {
+  background-color: #ef720c;
+}
+ul.orange li:nth-child(156):hover:before {
+  content: "#ef720c";
+  color: #fce1cb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(157) {
+  background-color: #ef720c;
+}
+ul.orange li:nth-child(157):hover:before {
+  content: "#ef720c";
+  color: #fce1cb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(158) {
+  background-color: #ef720c;
+}
+ul.orange li:nth-child(158):hover:before {
+  content: "#ef720c";
+  color: #fce1cb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(159) {
+  background-color: #ef720c;
+}
+ul.orange li:nth-child(159):hover:before {
+  content: "#ef720c";
+  color: #fce1ca;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(160) {
+  background-color: #ee720c;
+}
+ul.orange li:nth-child(160):hover:before {
+  content: "#ee720c";
+  color: #fce1ca;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(161) {
+  background-color: #ee720c;
+}
+ul.orange li:nth-child(161):hover:before {
+  content: "#ee720c";
+  color: #fce1ca;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(162) {
+  background-color: #ee720c;
+}
+ul.orange li:nth-child(162):hover:before {
+  content: "#ee720c";
+  color: #fce0ca;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(163) {
+  background-color: #ee720c;
+}
+ul.orange li:nth-child(163):hover:before {
+  content: "#ee720c";
+  color: #fce0c9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(164) {
+  background-color: #ed710c;
+}
+ul.orange li:nth-child(164):hover:before {
+  content: "#ed710c";
+  color: #fce0c9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(165) {
+  background-color: #ed710c;
+}
+ul.orange li:nth-child(165):hover:before {
+  content: "#ed710c";
+  color: #fce0c9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(166) {
+  background-color: #ed710c;
+}
+ul.orange li:nth-child(166):hover:before {
+  content: "#ed710c";
+  color: #fce0c9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(167) {
+  background-color: #ed710c;
+}
+ul.orange li:nth-child(167):hover:before {
+  content: "#ed710c";
+  color: #fce0c8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(168) {
+  background-color: #ec710c;
+}
+ul.orange li:nth-child(168):hover:before {
+  content: "#ec710c";
+  color: #fce0c8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(169) {
+  background-color: #ec710c;
+}
+ul.orange li:nth-child(169):hover:before {
+  content: "#ec710c";
+  color: #fcdfc8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(170) {
+  background-color: #ec710c;
+}
+ul.orange li:nth-child(170):hover:before {
+  content: "#ec710c";
+  color: #fcdfc8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(171) {
+  background-color: #ec710c;
+}
+ul.orange li:nth-child(171):hover:before {
+  content: "#ec710c";
+  color: #fcdfc7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(172) {
+  background-color: #eb710c;
+}
+ul.orange li:nth-child(172):hover:before {
+  content: "#eb710c";
+  color: #fcdfc7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(173) {
+  background-color: #eb700c;
+}
+ul.orange li:nth-child(173):hover:before {
+  content: "#eb700c";
+  color: #fcdfc7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(174) {
+  background-color: #eb700c;
+}
+ul.orange li:nth-child(174):hover:before {
+  content: "#eb700c";
+  color: #fcdfc7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(175) {
+  background-color: #eb700c;
+}
+ul.orange li:nth-child(175):hover:before {
+  content: "#eb700c";
+  color: #fcdfc6;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(176) {
+  background-color: #ea700c;
+}
+ul.orange li:nth-child(176):hover:before {
+  content: "#ea700c";
+  color: #fcdec6;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(177) {
+  background-color: #ea700c;
+}
+ul.orange li:nth-child(177):hover:before {
+  content: "#ea700c";
+  color: #fcdec6;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(178) {
+  background-color: #ea700c;
+}
+ul.orange li:nth-child(178):hover:before {
+  content: "#ea700c";
+  color: #fcdec6;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(179) {
+  background-color: #ea700c;
+}
+ul.orange li:nth-child(179):hover:before {
+  content: "#ea700c";
+  color: #fcdec6;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(180) {
+  background-color: #e9700c;
+}
+ul.orange li:nth-child(180):hover:before {
+  content: "#e9700c";
+  color: #fcdec5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(181) {
+  background-color: #e96f0c;
+}
+ul.orange li:nth-child(181):hover:before {
+  content: "#e96f0c";
+  color: #fcdec5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(182) {
+  background-color: #e96f0c;
+}
+ul.orange li:nth-child(182):hover:before {
+  content: "#e96f0c";
+  color: #fcdec5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(183) {
+  background-color: #e96f0c;
+}
+ul.orange li:nth-child(183):hover:before {
+  content: "#e96f0c";
+  color: #fcdec5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(184) {
+  background-color: #e96f0c;
+}
+ul.orange li:nth-child(184):hover:before {
+  content: "#e96f0c";
+  color: #fcddc4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(185) {
+  background-color: #e86f0c;
+}
+ul.orange li:nth-child(185):hover:before {
+  content: "#e86f0c";
+  color: #fcddc4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(186) {
+  background-color: #e86f0c;
+}
+ul.orange li:nth-child(186):hover:before {
+  content: "#e86f0c";
+  color: #fcddc4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(187) {
+  background-color: #e86f0c;
+}
+ul.orange li:nth-child(187):hover:before {
+  content: "#e86f0c";
+  color: #fcddc4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(188) {
+  background-color: #e86f0c;
+}
+ul.orange li:nth-child(188):hover:before {
+  content: "#e86f0c";
+  color: #fcddc3;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(189) {
+  background-color: #e76f0c;
+}
+ul.orange li:nth-child(189):hover:before {
+  content: "#e76f0c";
+  color: #fcddc3;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(190) {
+  background-color: #e76e0c;
+}
+ul.orange li:nth-child(190):hover:before {
+  content: "#e76e0c";
+  color: #fcddc3;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(191) {
+  background-color: #e76e0c;
+}
+ul.orange li:nth-child(191):hover:before {
+  content: "#e76e0c";
+  color: #fcdcc3;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(192) {
+  background-color: #e76e0c;
+}
+ul.orange li:nth-child(192):hover:before {
+  content: "#e76e0c";
+  color: #fcdcc2;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(193) {
+  background-color: #e66e0c;
+}
+ul.orange li:nth-child(193):hover:before {
+  content: "#e66e0c";
+  color: #fcdcc2;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(194) {
+  background-color: #e66e0c;
+}
+ul.orange li:nth-child(194):hover:before {
+  content: "#e66e0c";
+  color: #fcdcc2;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(195) {
+  background-color: #e66e0c;
+}
+ul.orange li:nth-child(195):hover:before {
+  content: "#e66e0c";
+  color: #fcdcc2;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(196) {
+  background-color: #e66e0c;
+}
+ul.orange li:nth-child(196):hover:before {
+  content: "#e66e0c";
+  color: #fcdcc1;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(197) {
+  background-color: #e56e0c;
+}
+ul.orange li:nth-child(197):hover:before {
+  content: "#e56e0c";
+  color: #fcdcc1;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(198) {
+  background-color: #e56e0c;
+}
+ul.orange li:nth-child(198):hover:before {
+  content: "#e56e0c";
+  color: #fcdbc1;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(199) {
+  background-color: #e56d0c;
+}
+ul.orange li:nth-child(199):hover:before {
+  content: "#e56d0c";
+  color: #fcdbc1;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(200) {
+  background-color: #e56d0c;
+}
+ul.orange li:nth-child(200):hover:before {
+  content: "#e56d0c";
+  color: #fcdbc0;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(201) {
+  background-color: #e46d0c;
+}
+ul.orange li:nth-child(201):hover:before {
+  content: "#e46d0c";
+  color: #fcdbc0;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.orange li:nth-child(11) {
+  background-color: #f37a16;
+}
+
+ul.yellow li:nth-child(10) {
+  background-color: #fbe02d;
+}
+ul.yellow li:nth-child(10):hover:before {
+  content: "#fbe02d";
+  color: #5a4f02;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(9) {
+  background-color: #fce346;
+}
+ul.yellow li:nth-child(9):hover:before {
+  content: "#fce346";
+  color: #736402;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(8) {
+  background-color: #fce75f;
+}
+ul.yellow li:nth-child(8):hover:before {
+  content: "#fce75f";
+  color: #8c7a03;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(7) {
+  background-color: #fceb78;
+}
+ul.yellow li:nth-child(7):hover:before {
+  content: "#fceb78";
+  color: #a69003;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(6) {
+  background-color: #fdef91;
+}
+ul.yellow li:nth-child(6):hover:before {
+  content: "#fdef91";
+  color: #bfa604;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(5) {
+  background-color: #fdf2aa;
+}
+ul.yellow li:nth-child(5):hover:before {
+  content: "#fdf2aa";
+  color: #d8bb04;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(4) {
+  background-color: #fef6c3;
+}
+ul.yellow li:nth-child(4):hover:before {
+  content: "#fef6c3";
+  color: #f1d104;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(3) {
+  background-color: #fefadc;
+}
+ul.yellow li:nth-child(3):hover:before {
+  content: "#fefadc";
+  color: #fbdc14;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(2) {
+  background-color: #fffef5;
+}
+ul.yellow li:nth-child(2):hover:before {
+  content: "#fffef5";
+  color: #fbe02d;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(1) {
+  background-color: white;
+}
+ul.yellow li:nth-child(1):hover:before {
+  content: "white";
+  color: #fbe137;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(102) {
+  background-color: #fbdc14;
+}
+ul.yellow li:nth-child(102):hover:before {
+  content: "#fbdc14";
+  color: #fefadc;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(103) {
+  background-color: #fbdc13;
+}
+ul.yellow li:nth-child(103):hover:before {
+  content: "#fbdc13";
+  color: #fefadc;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(104) {
+  background-color: #fbdc13;
+}
+ul.yellow li:nth-child(104):hover:before {
+  content: "#fbdc13";
+  color: #fefadb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(105) {
+  background-color: #fbdc13;
+}
+ul.yellow li:nth-child(105):hover:before {
+  content: "#fbdc13";
+  color: #fefadb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(106) {
+  background-color: #fbdc13;
+}
+ul.yellow li:nth-child(106):hover:before {
+  content: "#fbdc13";
+  color: #fefadb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(107) {
+  background-color: #fbdc12;
+}
+ul.yellow li:nth-child(107):hover:before {
+  content: "#fbdc12";
+  color: #fefadb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(108) {
+  background-color: #fbdc12;
+}
+ul.yellow li:nth-child(108):hover:before {
+  content: "#fbdc12";
+  color: #fefada;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(109) {
+  background-color: #fbdc12;
+}
+ul.yellow li:nth-child(109):hover:before {
+  content: "#fbdc12";
+  color: #fefada;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(110) {
+  background-color: #fbdc12;
+}
+ul.yellow li:nth-child(110):hover:before {
+  content: "#fbdc12";
+  color: #fef9da;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(111) {
+  background-color: #fbdb11;
+}
+ul.yellow li:nth-child(111):hover:before {
+  content: "#fbdb11";
+  color: #fef9da;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(112) {
+  background-color: #fbdb11;
+}
+ul.yellow li:nth-child(112):hover:before {
+  content: "#fbdb11";
+  color: #fef9d9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(113) {
+  background-color: #fbdb11;
+}
+ul.yellow li:nth-child(113):hover:before {
+  content: "#fbdb11";
+  color: #fef9d9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(114) {
+  background-color: #fbdb11;
+}
+ul.yellow li:nth-child(114):hover:before {
+  content: "#fbdb11";
+  color: #fef9d9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(115) {
+  background-color: #fbdb10;
+}
+ul.yellow li:nth-child(115):hover:before {
+  content: "#fbdb10";
+  color: #fef9d9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(116) {
+  background-color: #fbdb10;
+}
+ul.yellow li:nth-child(116):hover:before {
+  content: "#fbdb10";
+  color: #fef9d8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(117) {
+  background-color: #fbdb10;
+}
+ul.yellow li:nth-child(117):hover:before {
+  content: "#fbdb10";
+  color: #fef9d8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(118) {
+  background-color: #fbdb10;
+}
+ul.yellow li:nth-child(118):hover:before {
+  content: "#fbdb10";
+  color: #fef9d8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(119) {
+  background-color: #fbdb0f;
+}
+ul.yellow li:nth-child(119):hover:before {
+  content: "#fbdb0f";
+  color: #fef9d8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(120) {
+  background-color: #fbdb0f;
+}
+ul.yellow li:nth-child(120):hover:before {
+  content: "#fbdb0f";
+  color: #fef9d7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(121) {
+  background-color: #fbdb0f;
+}
+ul.yellow li:nth-child(121):hover:before {
+  content: "#fbdb0f";
+  color: #fef9d7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(122) {
+  background-color: #fbdb0f;
+}
+ul.yellow li:nth-child(122):hover:before {
+  content: "#fbdb0f";
+  color: #fef9d7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(123) {
+  background-color: #fbdb0e;
+}
+ul.yellow li:nth-child(123):hover:before {
+  content: "#fbdb0e";
+  color: #fef9d7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(124) {
+  background-color: #fbdb0e;
+}
+ul.yellow li:nth-child(124):hover:before {
+  content: "#fbdb0e";
+  color: #fef9d6;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(125) {
+  background-color: #fadb0e;
+}
+ul.yellow li:nth-child(125):hover:before {
+  content: "#fadb0e";
+  color: #fef9d6;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(126) {
+  background-color: #fadb0e;
+}
+ul.yellow li:nth-child(126):hover:before {
+  content: "#fadb0e";
+  color: #fef9d6;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(127) {
+  background-color: #fadb0d;
+}
+ul.yellow li:nth-child(127):hover:before {
+  content: "#fadb0d";
+  color: #fef9d6;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(128) {
+  background-color: #fadb0d;
+}
+ul.yellow li:nth-child(128):hover:before {
+  content: "#fadb0d";
+  color: #fef9d5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(129) {
+  background-color: #fadb0d;
+}
+ul.yellow li:nth-child(129):hover:before {
+  content: "#fadb0d";
+  color: #fef9d5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(130) {
+  background-color: #fadb0d;
+}
+ul.yellow li:nth-child(130):hover:before {
+  content: "#fadb0d";
+  color: #fef9d5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(131) {
+  background-color: #fadb0c;
+}
+ul.yellow li:nth-child(131):hover:before {
+  content: "#fadb0c";
+  color: #fef9d5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(132) {
+  background-color: #fadb0c;
+}
+ul.yellow li:nth-child(132):hover:before {
+  content: "#fadb0c";
+  color: #fef9d4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(133) {
+  background-color: #fadb0c;
+}
+ul.yellow li:nth-child(133):hover:before {
+  content: "#fadb0c";
+  color: #fef9d4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(134) {
+  background-color: #fadb0c;
+}
+ul.yellow li:nth-child(134):hover:before {
+  content: "#fadb0c";
+  color: #fef9d4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(135) {
+  background-color: #fadb0b;
+}
+ul.yellow li:nth-child(135):hover:before {
+  content: "#fadb0b";
+  color: #fef9d4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(136) {
+  background-color: #fadb0b;
+}
+ul.yellow li:nth-child(136):hover:before {
+  content: "#fadb0b";
+  color: #fef8d3;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(137) {
+  background-color: #fadb0b;
+}
+ul.yellow li:nth-child(137):hover:before {
+  content: "#fadb0b";
+  color: #fef8d3;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(138) {
+  background-color: #fada0b;
+}
+ul.yellow li:nth-child(138):hover:before {
+  content: "#fada0b";
+  color: #fef8d3;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(139) {
+  background-color: #fada0a;
+}
+ul.yellow li:nth-child(139):hover:before {
+  content: "#fada0a";
+  color: #fef8d3;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(140) {
+  background-color: #fada0a;
+}
+ul.yellow li:nth-child(140):hover:before {
+  content: "#fada0a";
+  color: #fef8d2;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(141) {
+  background-color: #fada0a;
+}
+ul.yellow li:nth-child(141):hover:before {
+  content: "#fada0a";
+  color: #fef8d2;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(142) {
+  background-color: #fada0a;
+}
+ul.yellow li:nth-child(142):hover:before {
+  content: "#fada0a";
+  color: #fef8d2;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(143) {
+  background-color: #fada09;
+}
+ul.yellow li:nth-child(143):hover:before {
+  content: "#fada09";
+  color: #fef8d2;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(144) {
+  background-color: #fada09;
+}
+ul.yellow li:nth-child(144):hover:before {
+  content: "#fada09";
+  color: #fef8d1;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(145) {
+  background-color: #fada09;
+}
+ul.yellow li:nth-child(145):hover:before {
+  content: "#fada09";
+  color: #fef8d1;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(146) {
+  background-color: #fada09;
+}
+ul.yellow li:nth-child(146):hover:before {
+  content: "#fada09";
+  color: #fef8d1;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(147) {
+  background-color: #fada08;
+}
+ul.yellow li:nth-child(147):hover:before {
+  content: "#fada08";
+  color: #fef8d1;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(148) {
+  background-color: #fada08;
+}
+ul.yellow li:nth-child(148):hover:before {
+  content: "#fada08";
+  color: #fef8d0;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(149) {
+  background-color: #fada08;
+}
+ul.yellow li:nth-child(149):hover:before {
+  content: "#fada08";
+  color: #fef8d0;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(150) {
+  background-color: #fada08;
+}
+ul.yellow li:nth-child(150):hover:before {
+  content: "#fada08";
+  color: #fef8d0;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(151) {
+  background-color: #fada07;
+}
+ul.yellow li:nth-child(151):hover:before {
+  content: "#fada07";
+  color: #fef8d0;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(152) {
+  background-color: #fada07;
+}
+ul.yellow li:nth-child(152):hover:before {
+  content: "#fada07";
+  color: #fef8cf;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(153) {
+  background-color: #fada07;
+}
+ul.yellow li:nth-child(153):hover:before {
+  content: "#fada07";
+  color: #fef8cf;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(154) {
+  background-color: #fada07;
+}
+ul.yellow li:nth-child(154):hover:before {
+  content: "#fada07";
+  color: #fef8cf;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(155) {
+  background-color: #fada06;
+}
+ul.yellow li:nth-child(155):hover:before {
+  content: "#fada06";
+  color: #fef8cf;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(156) {
+  background-color: #fada06;
+}
+ul.yellow li:nth-child(156):hover:before {
+  content: "#fada06";
+  color: #fef8ce;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(157) {
+  background-color: #fada06;
+}
+ul.yellow li:nth-child(157):hover:before {
+  content: "#fada06";
+  color: #fef8ce;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(158) {
+  background-color: #fada06;
+}
+ul.yellow li:nth-child(158):hover:before {
+  content: "#fada06";
+  color: #fef8ce;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(159) {
+  background-color: #fada05;
+}
+ul.yellow li:nth-child(159):hover:before {
+  content: "#fada05";
+  color: #fef8ce;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(160) {
+  background-color: #fada05;
+}
+ul.yellow li:nth-child(160):hover:before {
+  content: "#fada05";
+  color: #fef8cd;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(161) {
+  background-color: #fada05;
+}
+ul.yellow li:nth-child(161):hover:before {
+  content: "#fada05";
+  color: #fef8cd;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(162) {
+  background-color: #fada05;
+}
+ul.yellow li:nth-child(162):hover:before {
+  content: "#fada05";
+  color: #fef8cd;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(163) {
+  background-color: #fad905;
+}
+ul.yellow li:nth-child(163):hover:before {
+  content: "#fad905";
+  color: #fef7cd;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(164) {
+  background-color: #fad905;
+}
+ul.yellow li:nth-child(164):hover:before {
+  content: "#fad905";
+  color: #fef7cc;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(165) {
+  background-color: #fad905;
+}
+ul.yellow li:nth-child(165):hover:before {
+  content: "#fad905";
+  color: #fef7cc;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(166) {
+  background-color: #f9d905;
+}
+ul.yellow li:nth-child(166):hover:before {
+  content: "#f9d905";
+  color: #fef7cc;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(167) {
+  background-color: #f9d905;
+}
+ul.yellow li:nth-child(167):hover:before {
+  content: "#f9d905";
+  color: #fef7cc;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(168) {
+  background-color: #f9d805;
+}
+ul.yellow li:nth-child(168):hover:before {
+  content: "#f9d805";
+  color: #fef7cb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(169) {
+  background-color: #f9d805;
+}
+ul.yellow li:nth-child(169):hover:before {
+  content: "#f9d805";
+  color: #fef7cb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(170) {
+  background-color: #f8d805;
+}
+ul.yellow li:nth-child(170):hover:before {
+  content: "#f8d805";
+  color: #fef7cb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(171) {
+  background-color: #f8d805;
+}
+ul.yellow li:nth-child(171):hover:before {
+  content: "#f8d805";
+  color: #fef7cb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(172) {
+  background-color: #f8d705;
+}
+ul.yellow li:nth-child(172):hover:before {
+  content: "#f8d705";
+  color: #fef7ca;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(173) {
+  background-color: #f8d705;
+}
+ul.yellow li:nth-child(173):hover:before {
+  content: "#f8d705";
+  color: #fef7ca;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(174) {
+  background-color: #f7d705;
+}
+ul.yellow li:nth-child(174):hover:before {
+  content: "#f7d705";
+  color: #fef7ca;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(175) {
+  background-color: #f7d705;
+}
+ul.yellow li:nth-child(175):hover:before {
+  content: "#f7d705";
+  color: #fef7ca;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(176) {
+  background-color: #f7d705;
+}
+ul.yellow li:nth-child(176):hover:before {
+  content: "#f7d705";
+  color: #fef7c9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(177) {
+  background-color: #f7d605;
+}
+ul.yellow li:nth-child(177):hover:before {
+  content: "#f7d605";
+  color: #fef7c9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(178) {
+  background-color: #f6d605;
+}
+ul.yellow li:nth-child(178):hover:before {
+  content: "#f6d605";
+  color: #fef7c9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(179) {
+  background-color: #f6d605;
+}
+ul.yellow li:nth-child(179):hover:before {
+  content: "#f6d605";
+  color: #fef7c9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(180) {
+  background-color: #f6d605;
+}
+ul.yellow li:nth-child(180):hover:before {
+  content: "#f6d605";
+  color: #fef7c8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(181) {
+  background-color: #f6d505;
+}
+ul.yellow li:nth-child(181):hover:before {
+  content: "#f6d505";
+  color: #fef7c8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(182) {
+  background-color: #f5d505;
+}
+ul.yellow li:nth-child(182):hover:before {
+  content: "#f5d505";
+  color: #fef7c8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(183) {
+  background-color: #f5d505;
+}
+ul.yellow li:nth-child(183):hover:before {
+  content: "#f5d505";
+  color: #fef7c8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(184) {
+  background-color: #f5d505;
+}
+ul.yellow li:nth-child(184):hover:before {
+  content: "#f5d505";
+  color: #fef7c7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(185) {
+  background-color: #f5d505;
+}
+ul.yellow li:nth-child(185):hover:before {
+  content: "#f5d505";
+  color: #fef7c7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(186) {
+  background-color: #f4d405;
+}
+ul.yellow li:nth-child(186):hover:before {
+  content: "#f4d405";
+  color: #fef7c7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(187) {
+  background-color: #f4d405;
+}
+ul.yellow li:nth-child(187):hover:before {
+  content: "#f4d405";
+  color: #fef7c7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(188) {
+  background-color: #f4d405;
+}
+ul.yellow li:nth-child(188):hover:before {
+  content: "#f4d405";
+  color: #fef7c6;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(189) {
+  background-color: #f4d405;
+}
+ul.yellow li:nth-child(189):hover:before {
+  content: "#f4d405";
+  color: #fef7c6;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(190) {
+  background-color: #f3d405;
+}
+ul.yellow li:nth-child(190):hover:before {
+  content: "#f3d405";
+  color: #fef6c6;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(191) {
+  background-color: #f3d305;
+}
+ul.yellow li:nth-child(191):hover:before {
+  content: "#f3d305";
+  color: #fef6c6;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(192) {
+  background-color: #f3d305;
+}
+ul.yellow li:nth-child(192):hover:before {
+  content: "#f3d305";
+  color: #fef6c5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(193) {
+  background-color: #f3d305;
+}
+ul.yellow li:nth-child(193):hover:before {
+  content: "#f3d305";
+  color: #fef6c5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(194) {
+  background-color: #f2d305;
+}
+ul.yellow li:nth-child(194):hover:before {
+  content: "#f2d305";
+  color: #fef6c5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(195) {
+  background-color: #f2d205;
+}
+ul.yellow li:nth-child(195):hover:before {
+  content: "#f2d205";
+  color: #fef6c5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(196) {
+  background-color: #f2d205;
+}
+ul.yellow li:nth-child(196):hover:before {
+  content: "#f2d205";
+  color: #fef6c4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(197) {
+  background-color: #f2d205;
+}
+ul.yellow li:nth-child(197):hover:before {
+  content: "#f2d205";
+  color: #fef6c4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(198) {
+  background-color: #f1d205;
+}
+ul.yellow li:nth-child(198):hover:before {
+  content: "#f1d205";
+  color: #fef6c4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(199) {
+  background-color: #f1d205;
+}
+ul.yellow li:nth-child(199):hover:before {
+  content: "#f1d205";
+  color: #fef6c4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(200) {
+  background-color: #f1d104;
+}
+ul.yellow li:nth-child(200):hover:before {
+  content: "#f1d104";
+  color: #fef6c3;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(201) {
+  background-color: #f1d104;
+}
+ul.yellow li:nth-child(201):hover:before {
+  content: "#f1d104";
+  color: #fef6c3;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.yellow li:nth-child(11) {
+  background-color: #fbdc14;
+}
+
+ul.green li:nth-child(10) {
+  background-color: #80dc24;
+}
+ul.green li:nth-child(10):hover:before {
+  content: "#80dc24";
+  color: #1a2c07;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(9) {
+  background-color: #8cdf3a;
+}
+ul.green li:nth-child(9):hover:before {
+  content: "#8cdf3a";
+  color: #26420b;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(8) {
+  background-color: #99e34f;
+}
+ul.green li:nth-child(8):hover:before {
+  content: "#99e34f";
+  color: #33580e;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(7) {
+  background-color: #a6e665;
+}
+ul.green li:nth-child(7):hover:before {
+  content: "#a6e665";
+  color: #406e12;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(6) {
+  background-color: #b3ea7b;
+}
+ul.green li:nth-child(6):hover:before {
+  content: "#b3ea7b";
+  color: #4d8415;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(5) {
+  background-color: #bfed91;
+}
+ul.green li:nth-child(5):hover:before {
+  content: "#bfed91";
+  color: #599a19;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(4) {
+  background-color: #ccf1a7;
+}
+ul.green li:nth-child(4):hover:before {
+  content: "#ccf1a7";
+  color: #66b01c;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(3) {
+  background-color: #d9f4bd;
+}
+ul.green li:nth-child(3):hover:before {
+  content: "#d9f4bd";
+  color: #73c620;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(2) {
+  background-color: #e6f8d3;
+}
+ul.green li:nth-child(2):hover:before {
+  content: "#e6f8d3";
+  color: #80dc24;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(1) {
+  background-color: #f2fce9;
+}
+ul.green li:nth-child(1):hover:before {
+  content: "#f2fce9";
+  color: #8cdf3a;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(102) {
+  background-color: #73c620;
+}
+ul.green li:nth-child(102):hover:before {
+  content: "#73c620";
+  color: #d9f4bd;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(103) {
+  background-color: #73c620;
+}
+ul.green li:nth-child(103):hover:before {
+  content: "#73c620";
+  color: #d9f4bd;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(104) {
+  background-color: #73c520;
+}
+ul.green li:nth-child(104):hover:before {
+  content: "#73c520";
+  color: #d9f4bd;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(105) {
+  background-color: #72c520;
+}
+ul.green li:nth-child(105):hover:before {
+  content: "#72c520";
+  color: #d8f4bc;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(106) {
+  background-color: #72c520;
+}
+ul.green li:nth-child(106):hover:before {
+  content: "#72c520";
+  color: #d8f4bc;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(107) {
+  background-color: #72c520;
+}
+ul.green li:nth-child(107):hover:before {
+  content: "#72c520";
+  color: #d8f4bc;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(108) {
+  background-color: #72c420;
+}
+ul.green li:nth-child(108):hover:before {
+  content: "#72c420";
+  color: #d8f4bc;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(109) {
+  background-color: #72c420;
+}
+ul.green li:nth-child(109):hover:before {
+  content: "#72c420";
+  color: #d8f4bc;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(110) {
+  background-color: #72c41f;
+}
+ul.green li:nth-child(110):hover:before {
+  content: "#72c41f";
+  color: #d8f4bb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(111) {
+  background-color: #72c41f;
+}
+ul.green li:nth-child(111):hover:before {
+  content: "#72c41f";
+  color: #d8f4bb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(112) {
+  background-color: #71c41f;
+}
+ul.green li:nth-child(112):hover:before {
+  content: "#71c41f";
+  color: #d7f4bb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(113) {
+  background-color: #71c31f;
+}
+ul.green li:nth-child(113):hover:before {
+  content: "#71c31f";
+  color: #d7f4bb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(114) {
+  background-color: #71c31f;
+}
+ul.green li:nth-child(114):hover:before {
+  content: "#71c31f";
+  color: #d7f4ba;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(115) {
+  background-color: #71c31f;
+}
+ul.green li:nth-child(115):hover:before {
+  content: "#71c31f";
+  color: #d7f4ba;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(116) {
+  background-color: #71c31f;
+}
+ul.green li:nth-child(116):hover:before {
+  content: "#71c31f";
+  color: #d7f4ba;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(117) {
+  background-color: #71c21f;
+}
+ul.green li:nth-child(117):hover:before {
+  content: "#71c21f";
+  color: #d7f4ba;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(118) {
+  background-color: #71c21f;
+}
+ul.green li:nth-child(118):hover:before {
+  content: "#71c21f";
+  color: #d7f4ba;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(119) {
+  background-color: #71c21f;
+}
+ul.green li:nth-child(119):hover:before {
+  content: "#71c21f";
+  color: #d7f4b9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(120) {
+  background-color: #70c21f;
+}
+ul.green li:nth-child(120):hover:before {
+  content: "#70c21f";
+  color: #d6f4b9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(121) {
+  background-color: #70c21f;
+}
+ul.green li:nth-child(121):hover:before {
+  content: "#70c21f";
+  color: #d6f4b9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(122) {
+  background-color: #70c11f;
+}
+ul.green li:nth-child(122):hover:before {
+  content: "#70c11f";
+  color: #d6f4b9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(123) {
+  background-color: #70c11f;
+}
+ul.green li:nth-child(123):hover:before {
+  content: "#70c11f";
+  color: #d6f4b9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(124) {
+  background-color: #70c11f;
+}
+ul.green li:nth-child(124):hover:before {
+  content: "#70c11f";
+  color: #d6f4b8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(125) {
+  background-color: #70c11f;
+}
+ul.green li:nth-child(125):hover:before {
+  content: "#70c11f";
+  color: #d6f4b8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(126) {
+  background-color: #70c11f;
+}
+ul.green li:nth-child(126):hover:before {
+  content: "#70c11f";
+  color: #d6f4b8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(127) {
+  background-color: #70c01f;
+}
+ul.green li:nth-child(127):hover:before {
+  content: "#70c01f";
+  color: #d6f4b8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(128) {
+  background-color: #6fc01f;
+}
+ul.green li:nth-child(128):hover:before {
+  content: "#6fc01f";
+  color: #d5f4b7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(129) {
+  background-color: #6fc01f;
+}
+ul.green li:nth-child(129):hover:before {
+  content: "#6fc01f";
+  color: #d5f3b7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(130) {
+  background-color: #6fc01f;
+}
+ul.green li:nth-child(130):hover:before {
+  content: "#6fc01f";
+  color: #d5f3b7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(131) {
+  background-color: #6fbf1f;
+}
+ul.green li:nth-child(131):hover:before {
+  content: "#6fbf1f";
+  color: #d5f3b7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(132) {
+  background-color: #6fbf1f;
+}
+ul.green li:nth-child(132):hover:before {
+  content: "#6fbf1f";
+  color: #d5f3b7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(133) {
+  background-color: #6fbf1f;
+}
+ul.green li:nth-child(133):hover:before {
+  content: "#6fbf1f";
+  color: #d5f3b6;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(134) {
+  background-color: #6fbf1f;
+}
+ul.green li:nth-child(134):hover:before {
+  content: "#6fbf1f";
+  color: #d5f3b6;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(135) {
+  background-color: #6fbf1f;
+}
+ul.green li:nth-child(135):hover:before {
+  content: "#6fbf1f";
+  color: #d5f3b6;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(136) {
+  background-color: #6ebe1f;
+}
+ul.green li:nth-child(136):hover:before {
+  content: "#6ebe1f";
+  color: #d4f3b6;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(137) {
+  background-color: #6ebe1f;
+}
+ul.green li:nth-child(137):hover:before {
+  content: "#6ebe1f";
+  color: #d4f3b5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(138) {
+  background-color: #6ebe1e;
+}
+ul.green li:nth-child(138):hover:before {
+  content: "#6ebe1e";
+  color: #d4f3b5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(139) {
+  background-color: #6ebe1e;
+}
+ul.green li:nth-child(139):hover:before {
+  content: "#6ebe1e";
+  color: #d4f3b5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(140) {
+  background-color: #6ebd1e;
+}
+ul.green li:nth-child(140):hover:before {
+  content: "#6ebd1e";
+  color: #d4f3b5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(141) {
+  background-color: #6ebd1e;
+}
+ul.green li:nth-child(141):hover:before {
+  content: "#6ebd1e";
+  color: #d4f3b5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(142) {
+  background-color: #6ebd1e;
+}
+ul.green li:nth-child(142):hover:before {
+  content: "#6ebd1e";
+  color: #d4f3b4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(143) {
+  background-color: #6ebd1e;
+}
+ul.green li:nth-child(143):hover:before {
+  content: "#6ebd1e";
+  color: #d4f3b4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(144) {
+  background-color: #6dbd1e;
+}
+ul.green li:nth-child(144):hover:before {
+  content: "#6dbd1e";
+  color: #d3f3b4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(145) {
+  background-color: #6dbc1e;
+}
+ul.green li:nth-child(145):hover:before {
+  content: "#6dbc1e";
+  color: #d3f3b4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(146) {
+  background-color: #6dbc1e;
+}
+ul.green li:nth-child(146):hover:before {
+  content: "#6dbc1e";
+  color: #d3f3b3;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(147) {
+  background-color: #6dbc1e;
+}
+ul.green li:nth-child(147):hover:before {
+  content: "#6dbc1e";
+  color: #d3f3b3;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(148) {
+  background-color: #6dbc1e;
+}
+ul.green li:nth-child(148):hover:before {
+  content: "#6dbc1e";
+  color: #d3f3b3;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(149) {
+  background-color: #6dbb1e;
+}
+ul.green li:nth-child(149):hover:before {
+  content: "#6dbb1e";
+  color: #d3f3b3;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(150) {
+  background-color: #6dbb1e;
+}
+ul.green li:nth-child(150):hover:before {
+  content: "#6dbb1e";
+  color: #d3f3b3;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(151) {
+  background-color: #6dbb1e;
+}
+ul.green li:nth-child(151):hover:before {
+  content: "#6dbb1e";
+  color: #d3f3b2;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(152) {
+  background-color: #6cbb1e;
+}
+ul.green li:nth-child(152):hover:before {
+  content: "#6cbb1e";
+  color: #d2f3b2;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(153) {
+  background-color: #6cbb1e;
+}
+ul.green li:nth-child(153):hover:before {
+  content: "#6cbb1e";
+  color: #d2f3b2;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(154) {
+  background-color: #6cba1e;
+}
+ul.green li:nth-child(154):hover:before {
+  content: "#6cba1e";
+  color: #d2f3b2;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(155) {
+  background-color: #6cba1e;
+}
+ul.green li:nth-child(155):hover:before {
+  content: "#6cba1e";
+  color: #d2f3b1;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(156) {
+  background-color: #6cba1e;
+}
+ul.green li:nth-child(156):hover:before {
+  content: "#6cba1e";
+  color: #d2f3b1;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(157) {
+  background-color: #6cba1e;
+}
+ul.green li:nth-child(157):hover:before {
+  content: "#6cba1e";
+  color: #d2f2b1;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(158) {
+  background-color: #6cb91e;
+}
+ul.green li:nth-child(158):hover:before {
+  content: "#6cb91e";
+  color: #d2f2b1;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(159) {
+  background-color: #6cb91e;
+}
+ul.green li:nth-child(159):hover:before {
+  content: "#6cb91e";
+  color: #d2f2b1;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(160) {
+  background-color: #6bb91e;
+}
+ul.green li:nth-child(160):hover:before {
+  content: "#6bb91e";
+  color: #d1f2b0;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(161) {
+  background-color: #6bb91e;
+}
+ul.green li:nth-child(161):hover:before {
+  content: "#6bb91e";
+  color: #d1f2b0;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(162) {
+  background-color: #6bb91e;
+}
+ul.green li:nth-child(162):hover:before {
+  content: "#6bb91e";
+  color: #d1f2b0;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(163) {
+  background-color: #6bb81e;
+}
+ul.green li:nth-child(163):hover:before {
+  content: "#6bb81e";
+  color: #d1f2b0;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(164) {
+  background-color: #6bb81e;
+}
+ul.green li:nth-child(164):hover:before {
+  content: "#6bb81e";
+  color: #d1f2af;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(165) {
+  background-color: #6bb81e;
+}
+ul.green li:nth-child(165):hover:before {
+  content: "#6bb81e";
+  color: #d1f2af;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(166) {
+  background-color: #6bb81d;
+}
+ul.green li:nth-child(166):hover:before {
+  content: "#6bb81d";
+  color: #d1f2af;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(167) {
+  background-color: #6ab81d;
+}
+ul.green li:nth-child(167):hover:before {
+  content: "#6ab81d";
+  color: #d0f2af;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(168) {
+  background-color: #6ab71d;
+}
+ul.green li:nth-child(168):hover:before {
+  content: "#6ab71d";
+  color: #d0f2af;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(169) {
+  background-color: #6ab71d;
+}
+ul.green li:nth-child(169):hover:before {
+  content: "#6ab71d";
+  color: #d0f2ae;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(170) {
+  background-color: #6ab71d;
+}
+ul.green li:nth-child(170):hover:before {
+  content: "#6ab71d";
+  color: #d0f2ae;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(171) {
+  background-color: #6ab71d;
+}
+ul.green li:nth-child(171):hover:before {
+  content: "#6ab71d";
+  color: #d0f2ae;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(172) {
+  background-color: #6ab61d;
+}
+ul.green li:nth-child(172):hover:before {
+  content: "#6ab61d";
+  color: #d0f2ae;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(173) {
+  background-color: #6ab61d;
+}
+ul.green li:nth-child(173):hover:before {
+  content: "#6ab61d";
+  color: #d0f2ae;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(174) {
+  background-color: #6ab61d;
+}
+ul.green li:nth-child(174):hover:before {
+  content: "#6ab61d";
+  color: #d0f2ad;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(175) {
+  background-color: #69b61d;
+}
+ul.green li:nth-child(175):hover:before {
+  content: "#69b61d";
+  color: #cff2ad;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(176) {
+  background-color: #69b61d;
+}
+ul.green li:nth-child(176):hover:before {
+  content: "#69b61d";
+  color: #cff2ad;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(177) {
+  background-color: #69b51d;
+}
+ul.green li:nth-child(177):hover:before {
+  content: "#69b51d";
+  color: #cff2ad;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(178) {
+  background-color: #69b51d;
+}
+ul.green li:nth-child(178):hover:before {
+  content: "#69b51d";
+  color: #cff2ac;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(179) {
+  background-color: #69b51d;
+}
+ul.green li:nth-child(179):hover:before {
+  content: "#69b51d";
+  color: #cff2ac;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(180) {
+  background-color: #69b51d;
+}
+ul.green li:nth-child(180):hover:before {
+  content: "#69b51d";
+  color: #cff2ac;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(181) {
+  background-color: #69b41d;
+}
+ul.green li:nth-child(181):hover:before {
+  content: "#69b41d";
+  color: #cff2ac;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(182) {
+  background-color: #69b41d;
+}
+ul.green li:nth-child(182):hover:before {
+  content: "#69b41d";
+  color: #cff2ac;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(183) {
+  background-color: #68b41d;
+}
+ul.green li:nth-child(183):hover:before {
+  content: "#68b41d";
+  color: #cef2ab;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(184) {
+  background-color: #68b41d;
+}
+ul.green li:nth-child(184):hover:before {
+  content: "#68b41d";
+  color: #cef2ab;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(185) {
+  background-color: #68b41d;
+}
+ul.green li:nth-child(185):hover:before {
+  content: "#68b41d";
+  color: #cef1ab;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(186) {
+  background-color: #68b31d;
+}
+ul.green li:nth-child(186):hover:before {
+  content: "#68b31d";
+  color: #cef1ab;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(187) {
+  background-color: #68b31d;
+}
+ul.green li:nth-child(187):hover:before {
+  content: "#68b31d";
+  color: #cef1aa;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(188) {
+  background-color: #68b31d;
+}
+ul.green li:nth-child(188):hover:before {
+  content: "#68b31d";
+  color: #cef1aa;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(189) {
+  background-color: #68b31d;
+}
+ul.green li:nth-child(189):hover:before {
+  content: "#68b31d";
+  color: #cef1aa;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(190) {
+  background-color: #68b21d;
+}
+ul.green li:nth-child(190):hover:before {
+  content: "#68b21d";
+  color: #cef1aa;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(191) {
+  background-color: #67b21d;
+}
+ul.green li:nth-child(191):hover:before {
+  content: "#67b21d";
+  color: #cdf1aa;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(192) {
+  background-color: #67b21d;
+}
+ul.green li:nth-child(192):hover:before {
+  content: "#67b21d";
+  color: #cdf1a9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(193) {
+  background-color: #67b21d;
+}
+ul.green li:nth-child(193):hover:before {
+  content: "#67b21d";
+  color: #cdf1a9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(194) {
+  background-color: #67b21d;
+}
+ul.green li:nth-child(194):hover:before {
+  content: "#67b21d";
+  color: #cdf1a9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(195) {
+  background-color: #67b11c;
+}
+ul.green li:nth-child(195):hover:before {
+  content: "#67b11c";
+  color: #cdf1a9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(196) {
+  background-color: #67b11c;
+}
+ul.green li:nth-child(196):hover:before {
+  content: "#67b11c";
+  color: #cdf1a8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(197) {
+  background-color: #67b11c;
+}
+ul.green li:nth-child(197):hover:before {
+  content: "#67b11c";
+  color: #cdf1a8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(198) {
+  background-color: #67b11c;
+}
+ul.green li:nth-child(198):hover:before {
+  content: "#67b11c";
+  color: #cdf1a8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(199) {
+  background-color: #66b01c;
+}
+ul.green li:nth-child(199):hover:before {
+  content: "#66b01c";
+  color: #ccf1a8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(200) {
+  background-color: #66b01c;
+}
+ul.green li:nth-child(200):hover:before {
+  content: "#66b01c";
+  color: #ccf1a8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(201) {
+  background-color: #66b01c;
+}
+ul.green li:nth-child(201):hover:before {
+  content: "#66b01c";
+  color: #ccf1a7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.green li:nth-child(11) {
+  background-color: #73c620;
+}
+
+ul.blue li:nth-child(10) {
+  background-color: #14cbeb;
+}
+ul.blue li:nth-child(10):hover:before {
+  content: "#14cbeb";
+  color: #04292f;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(9) {
+  background-color: #2cd0ed;
+}
+ul.blue li:nth-child(9):hover:before {
+  content: "#2cd0ed";
+  color: #063d47;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(8) {
+  background-color: #43d5ef;
+}
+ul.blue li:nth-child(8):hover:before {
+  content: "#43d5ef";
+  color: #08515e;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(7) {
+  background-color: #5bdaf1;
+}
+ul.blue li:nth-child(7):hover:before {
+  content: "#5bdaf1";
+  color: #0a6676;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(6) {
+  background-color: #72e0f3;
+}
+ul.blue li:nth-child(6):hover:before {
+  content: "#72e0f3";
+  color: #0c7a8d;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(5) {
+  background-color: #8ae5f5;
+}
+ul.blue li:nth-child(5):hover:before {
+  content: "#8ae5f5";
+  color: #0e8ea5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(4) {
+  background-color: #a1eaf7;
+}
+ul.blue li:nth-child(4):hover:before {
+  content: "#a1eaf7";
+  color: #10a2bc;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(3) {
+  background-color: #b9eff9;
+}
+ul.blue li:nth-child(3):hover:before {
+  content: "#b9eff9";
+  color: #12b7d4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(2) {
+  background-color: #d0f5fb;
+}
+ul.blue li:nth-child(2):hover:before {
+  content: "#d0f5fb";
+  color: #14cbeb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(1) {
+  background-color: #e8fafd;
+}
+ul.blue li:nth-child(1):hover:before {
+  content: "#e8fafd";
+  color: #2cd0ed;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(102) {
+  background-color: #12b7d4;
+}
+ul.blue li:nth-child(102):hover:before {
+  content: "#12b7d4";
+  color: #b9eff9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(103) {
+  background-color: #12b6d3;
+}
+ul.blue li:nth-child(103):hover:before {
+  content: "#12b6d3";
+  color: #b8eff9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(104) {
+  background-color: #12b6d3;
+}
+ul.blue li:nth-child(104):hover:before {
+  content: "#12b6d3";
+  color: #b8eff9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(105) {
+  background-color: #12b6d3;
+}
+ul.blue li:nth-child(105):hover:before {
+  content: "#12b6d3";
+  color: #b8eff9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(106) {
+  background-color: #12b6d3;
+}
+ul.blue li:nth-child(106):hover:before {
+  content: "#12b6d3";
+  color: #b8eff9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(107) {
+  background-color: #12b6d2;
+}
+ul.blue li:nth-child(107):hover:before {
+  content: "#12b6d2";
+  color: #b7eff9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(108) {
+  background-color: #12b5d2;
+}
+ul.blue li:nth-child(108):hover:before {
+  content: "#12b5d2";
+  color: #b7eff9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(109) {
+  background-color: #12b5d2;
+}
+ul.blue li:nth-child(109):hover:before {
+  content: "#12b5d2";
+  color: #b7eff9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(110) {
+  background-color: #12b5d2;
+}
+ul.blue li:nth-child(110):hover:before {
+  content: "#12b5d2";
+  color: #b7eff9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(111) {
+  background-color: #12b5d1;
+}
+ul.blue li:nth-child(111):hover:before {
+  content: "#12b5d1";
+  color: #b6eff9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(112) {
+  background-color: #12b4d1;
+}
+ul.blue li:nth-child(112):hover:before {
+  content: "#12b4d1";
+  color: #b6eff9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(113) {
+  background-color: #12b4d1;
+}
+ul.blue li:nth-child(113):hover:before {
+  content: "#12b4d1";
+  color: #b6eff9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(114) {
+  background-color: #12b4d1;
+}
+ul.blue li:nth-child(114):hover:before {
+  content: "#12b4d1";
+  color: #b6eff9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(115) {
+  background-color: #12b4d1;
+}
+ul.blue li:nth-child(115):hover:before {
+  content: "#12b4d1";
+  color: #b5eff9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(116) {
+  background-color: #12b4d0;
+}
+ul.blue li:nth-child(116):hover:before {
+  content: "#12b4d0";
+  color: #b5eff9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(117) {
+  background-color: #12b3d0;
+}
+ul.blue li:nth-child(117):hover:before {
+  content: "#12b3d0";
+  color: #b5eff9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(118) {
+  background-color: #12b3d0;
+}
+ul.blue li:nth-child(118):hover:before {
+  content: "#12b3d0";
+  color: #b5eff9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(119) {
+  background-color: #12b3d0;
+}
+ul.blue li:nth-child(119):hover:before {
+  content: "#12b3d0";
+  color: #b5eef9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(120) {
+  background-color: #12b3cf;
+}
+ul.blue li:nth-child(120):hover:before {
+  content: "#12b3cf";
+  color: #b4eef9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(121) {
+  background-color: #12b3cf;
+}
+ul.blue li:nth-child(121):hover:before {
+  content: "#12b3cf";
+  color: #b4eef9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(122) {
+  background-color: #12b2cf;
+}
+ul.blue li:nth-child(122):hover:before {
+  content: "#12b2cf";
+  color: #b4eef9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(123) {
+  background-color: #12b2cf;
+}
+ul.blue li:nth-child(123):hover:before {
+  content: "#12b2cf";
+  color: #b4eef9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(124) {
+  background-color: #12b2ce;
+}
+ul.blue li:nth-child(124):hover:before {
+  content: "#12b2ce";
+  color: #b3eef9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(125) {
+  background-color: #12b2ce;
+}
+ul.blue li:nth-child(125):hover:before {
+  content: "#12b2ce";
+  color: #b3eef9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(126) {
+  background-color: #12b2ce;
+}
+ul.blue li:nth-child(126):hover:before {
+  content: "#12b2ce";
+  color: #b3eef9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(127) {
+  background-color: #11b1ce;
+}
+ul.blue li:nth-child(127):hover:before {
+  content: "#11b1ce";
+  color: #b3eef9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(128) {
+  background-color: #11b1cd;
+}
+ul.blue li:nth-child(128):hover:before {
+  content: "#11b1cd";
+  color: #b2eef8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(129) {
+  background-color: #11b1cd;
+}
+ul.blue li:nth-child(129):hover:before {
+  content: "#11b1cd";
+  color: #b2eef8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(130) {
+  background-color: #11b1cd;
+}
+ul.blue li:nth-child(130):hover:before {
+  content: "#11b1cd";
+  color: #b2eef8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(131) {
+  background-color: #11b1cd;
+}
+ul.blue li:nth-child(131):hover:before {
+  content: "#11b1cd";
+  color: #b2eef8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(132) {
+  background-color: #11b0cd;
+}
+ul.blue li:nth-child(132):hover:before {
+  content: "#11b0cd";
+  color: #b1eef8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(133) {
+  background-color: #11b0cc;
+}
+ul.blue li:nth-child(133):hover:before {
+  content: "#11b0cc";
+  color: #b1eef8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(134) {
+  background-color: #11b0cc;
+}
+ul.blue li:nth-child(134):hover:before {
+  content: "#11b0cc";
+  color: #b1eef8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(135) {
+  background-color: #11b0cc;
+}
+ul.blue li:nth-child(135):hover:before {
+  content: "#11b0cc";
+  color: #b1eef8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(136) {
+  background-color: #11b0cc;
+}
+ul.blue li:nth-child(136):hover:before {
+  content: "#11b0cc";
+  color: #b1eef8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(137) {
+  background-color: #11afcb;
+}
+ul.blue li:nth-child(137):hover:before {
+  content: "#11afcb";
+  color: #b0eef8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(138) {
+  background-color: #11afcb;
+}
+ul.blue li:nth-child(138):hover:before {
+  content: "#11afcb";
+  color: #b0edf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(139) {
+  background-color: #11afcb;
+}
+ul.blue li:nth-child(139):hover:before {
+  content: "#11afcb";
+  color: #b0edf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(140) {
+  background-color: #11afcb;
+}
+ul.blue li:nth-child(140):hover:before {
+  content: "#11afcb";
+  color: #b0edf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(141) {
+  background-color: #11afca;
+}
+ul.blue li:nth-child(141):hover:before {
+  content: "#11afca";
+  color: #afedf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(142) {
+  background-color: #11aeca;
+}
+ul.blue li:nth-child(142):hover:before {
+  content: "#11aeca";
+  color: #afedf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(143) {
+  background-color: #11aeca;
+}
+ul.blue li:nth-child(143):hover:before {
+  content: "#11aeca";
+  color: #afedf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(144) {
+  background-color: #11aeca;
+}
+ul.blue li:nth-child(144):hover:before {
+  content: "#11aeca";
+  color: #afedf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(145) {
+  background-color: #11aec9;
+}
+ul.blue li:nth-child(145):hover:before {
+  content: "#11aec9";
+  color: #aeedf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(146) {
+  background-color: #11aec9;
+}
+ul.blue li:nth-child(146):hover:before {
+  content: "#11aec9";
+  color: #aeedf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(147) {
+  background-color: #11adc9;
+}
+ul.blue li:nth-child(147):hover:before {
+  content: "#11adc9";
+  color: #aeedf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(148) {
+  background-color: #11adc9;
+}
+ul.blue li:nth-child(148):hover:before {
+  content: "#11adc9";
+  color: #aeedf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(149) {
+  background-color: #11adc9;
+}
+ul.blue li:nth-child(149):hover:before {
+  content: "#11adc9";
+  color: #adedf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(150) {
+  background-color: #11adc8;
+}
+ul.blue li:nth-child(150):hover:before {
+  content: "#11adc8";
+  color: #adedf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(151) {
+  background-color: #11adc8;
+}
+ul.blue li:nth-child(151):hover:before {
+  content: "#11adc8";
+  color: #adedf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(152) {
+  background-color: #11acc8;
+}
+ul.blue li:nth-child(152):hover:before {
+  content: "#11acc8";
+  color: #adedf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(153) {
+  background-color: #11acc8;
+}
+ul.blue li:nth-child(153):hover:before {
+  content: "#11acc8";
+  color: #adedf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(154) {
+  background-color: #11acc7;
+}
+ul.blue li:nth-child(154):hover:before {
+  content: "#11acc7";
+  color: #acedf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(155) {
+  background-color: #11acc7;
+}
+ul.blue li:nth-child(155):hover:before {
+  content: "#11acc7";
+  color: #acedf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(156) {
+  background-color: #11acc7;
+}
+ul.blue li:nth-child(156):hover:before {
+  content: "#11acc7";
+  color: #acedf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(157) {
+  background-color: #11abc7;
+}
+ul.blue li:nth-child(157):hover:before {
+  content: "#11abc7";
+  color: #acecf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(158) {
+  background-color: #11abc6;
+}
+ul.blue li:nth-child(158):hover:before {
+  content: "#11abc6";
+  color: #abecf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(159) {
+  background-color: #11abc6;
+}
+ul.blue li:nth-child(159):hover:before {
+  content: "#11abc6";
+  color: #abecf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(160) {
+  background-color: #11abc6;
+}
+ul.blue li:nth-child(160):hover:before {
+  content: "#11abc6";
+  color: #abecf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(161) {
+  background-color: #11abc6;
+}
+ul.blue li:nth-child(161):hover:before {
+  content: "#11abc6";
+  color: #abecf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(162) {
+  background-color: #11aac5;
+}
+ul.blue li:nth-child(162):hover:before {
+  content: "#11aac5";
+  color: #aaecf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(163) {
+  background-color: #11aac5;
+}
+ul.blue li:nth-child(163):hover:before {
+  content: "#11aac5";
+  color: #aaecf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(164) {
+  background-color: #11aac5;
+}
+ul.blue li:nth-child(164):hover:before {
+  content: "#11aac5";
+  color: #aaecf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(165) {
+  background-color: #11aac5;
+}
+ul.blue li:nth-child(165):hover:before {
+  content: "#11aac5";
+  color: #aaecf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(166) {
+  background-color: #11aac5;
+}
+ul.blue li:nth-child(166):hover:before {
+  content: "#11aac5";
+  color: #a9ecf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(167) {
+  background-color: #11a9c4;
+}
+ul.blue li:nth-child(167):hover:before {
+  content: "#11a9c4";
+  color: #a9ecf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(168) {
+  background-color: #11a9c4;
+}
+ul.blue li:nth-child(168):hover:before {
+  content: "#11a9c4";
+  color: #a9ecf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(169) {
+  background-color: #11a9c4;
+}
+ul.blue li:nth-child(169):hover:before {
+  content: "#11a9c4";
+  color: #a9ecf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(170) {
+  background-color: #11a9c4;
+}
+ul.blue li:nth-child(170):hover:before {
+  content: "#11a9c4";
+  color: #a9ecf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(171) {
+  background-color: #11a9c3;
+}
+ul.blue li:nth-child(171):hover:before {
+  content: "#11a9c3";
+  color: #a8ecf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(172) {
+  background-color: #11a8c3;
+}
+ul.blue li:nth-child(172):hover:before {
+  content: "#11a8c3";
+  color: #a8ecf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(173) {
+  background-color: #11a8c3;
+}
+ul.blue li:nth-child(173):hover:before {
+  content: "#11a8c3";
+  color: #a8ecf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(174) {
+  background-color: #11a8c3;
+}
+ul.blue li:nth-child(174):hover:before {
+  content: "#11a8c3";
+  color: #a8ecf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(175) {
+  background-color: #11a8c2;
+}
+ul.blue li:nth-child(175):hover:before {
+  content: "#11a8c2";
+  color: #a7ecf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(176) {
+  background-color: #11a8c2;
+}
+ul.blue li:nth-child(176):hover:before {
+  content: "#11a8c2";
+  color: #a7ebf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(177) {
+  background-color: #10a7c2;
+}
+ul.blue li:nth-child(177):hover:before {
+  content: "#10a7c2";
+  color: #a7ebf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(178) {
+  background-color: #10a7c2;
+}
+ul.blue li:nth-child(178):hover:before {
+  content: "#10a7c2";
+  color: #a7ebf7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(179) {
+  background-color: #10a7c1;
+}
+ul.blue li:nth-child(179):hover:before {
+  content: "#10a7c1";
+  color: #a6ebf7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(180) {
+  background-color: #10a7c1;
+}
+ul.blue li:nth-child(180):hover:before {
+  content: "#10a7c1";
+  color: #a6ebf7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(181) {
+  background-color: #10a7c1;
+}
+ul.blue li:nth-child(181):hover:before {
+  content: "#10a7c1";
+  color: #a6ebf7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(182) {
+  background-color: #10a6c1;
+}
+ul.blue li:nth-child(182):hover:before {
+  content: "#10a6c1";
+  color: #a6ebf7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(183) {
+  background-color: #10a6c1;
+}
+ul.blue li:nth-child(183):hover:before {
+  content: "#10a6c1";
+  color: #a5ebf7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(184) {
+  background-color: #10a6c0;
+}
+ul.blue li:nth-child(184):hover:before {
+  content: "#10a6c0";
+  color: #a5ebf7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(185) {
+  background-color: #10a6c0;
+}
+ul.blue li:nth-child(185):hover:before {
+  content: "#10a6c0";
+  color: #a5ebf7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(186) {
+  background-color: #10a5c0;
+}
+ul.blue li:nth-child(186):hover:before {
+  content: "#10a5c0";
+  color: #a5ebf7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(187) {
+  background-color: #10a5c0;
+}
+ul.blue li:nth-child(187):hover:before {
+  content: "#10a5c0";
+  color: #a5ebf7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(188) {
+  background-color: #10a5bf;
+}
+ul.blue li:nth-child(188):hover:before {
+  content: "#10a5bf";
+  color: #a4ebf7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(189) {
+  background-color: #10a5bf;
+}
+ul.blue li:nth-child(189):hover:before {
+  content: "#10a5bf";
+  color: #a4ebf7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(190) {
+  background-color: #10a5bf;
+}
+ul.blue li:nth-child(190):hover:before {
+  content: "#10a5bf";
+  color: #a4ebf7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(191) {
+  background-color: #10a4bf;
+}
+ul.blue li:nth-child(191):hover:before {
+  content: "#10a4bf";
+  color: #a4ebf7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(192) {
+  background-color: #10a4be;
+}
+ul.blue li:nth-child(192):hover:before {
+  content: "#10a4be";
+  color: #a3ebf7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(193) {
+  background-color: #10a4be;
+}
+ul.blue li:nth-child(193):hover:before {
+  content: "#10a4be";
+  color: #a3ebf7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(194) {
+  background-color: #10a4be;
+}
+ul.blue li:nth-child(194):hover:before {
+  content: "#10a4be";
+  color: #a3ebf7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(195) {
+  background-color: #10a4be;
+}
+ul.blue li:nth-child(195):hover:before {
+  content: "#10a4be";
+  color: #a3eaf7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(196) {
+  background-color: #10a3bd;
+}
+ul.blue li:nth-child(196):hover:before {
+  content: "#10a3bd";
+  color: #a2eaf7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(197) {
+  background-color: #10a3bd;
+}
+ul.blue li:nth-child(197):hover:before {
+  content: "#10a3bd";
+  color: #a2eaf7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(198) {
+  background-color: #10a3bd;
+}
+ul.blue li:nth-child(198):hover:before {
+  content: "#10a3bd";
+  color: #a2eaf7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(199) {
+  background-color: #10a3bd;
+}
+ul.blue li:nth-child(199):hover:before {
+  content: "#10a3bd";
+  color: #a2eaf7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(200) {
+  background-color: #10a3bd;
+}
+ul.blue li:nth-child(200):hover:before {
+  content: "#10a3bd";
+  color: #a2eaf7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(201) {
+  background-color: #10a2bc;
+}
+ul.blue li:nth-child(201):hover:before {
+  content: "#10a2bc";
+  color: #a1eaf7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.blue li:nth-child(11) {
+  background-color: #12b7d4;
+}
+
+ul.purple li:nth-child(10) {
+  background-color: #b214eb;
+}
+ul.purple li:nth-child(10):hover:before {
+  content: "#b214eb";
+  color: #24042f;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(9) {
+  background-color: #ba2ced;
+}
+ul.purple li:nth-child(9):hover:before {
+  content: "#ba2ced";
+  color: #360647;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(8) {
+  background-color: #c143ef;
+}
+ul.purple li:nth-child(8):hover:before {
+  content: "#c143ef";
+  color: #47085e;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(7) {
+  background-color: #c95bf1;
+}
+ul.purple li:nth-child(7):hover:before {
+  content: "#c95bf1";
+  color: #590a76;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(6) {
+  background-color: #d172f3;
+}
+ul.purple li:nth-child(6):hover:before {
+  content: "#d172f3";
+  color: #6b0c8d;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(5) {
+  background-color: #d88af5;
+}
+ul.purple li:nth-child(5):hover:before {
+  content: "#d88af5";
+  color: #7d0ea5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(4) {
+  background-color: #e0a1f7;
+}
+ul.purple li:nth-child(4):hover:before {
+  content: "#e0a1f7";
+  color: #8e10bc;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(3) {
+  background-color: #e8b9f9;
+}
+ul.purple li:nth-child(3):hover:before {
+  content: "#e8b9f9";
+  color: #a012d4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(2) {
+  background-color: #f0d0fb;
+}
+ul.purple li:nth-child(2):hover:before {
+  content: "#f0d0fb";
+  color: #b214eb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(1) {
+  background-color: #f7e8fd;
+}
+ul.purple li:nth-child(1):hover:before {
+  content: "#f7e8fd";
+  color: #ba2ced;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(102) {
+  background-color: #a012d4;
+}
+ul.purple li:nth-child(102):hover:before {
+  content: "#a012d4";
+  color: #e8b9f9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(103) {
+  background-color: #a012d3;
+}
+ul.purple li:nth-child(103):hover:before {
+  content: "#a012d3";
+  color: #e8b8f9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(104) {
+  background-color: #a012d3;
+}
+ul.purple li:nth-child(104):hover:before {
+  content: "#a012d3";
+  color: #e8b8f9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(105) {
+  background-color: #9f12d3;
+}
+ul.purple li:nth-child(105):hover:before {
+  content: "#9f12d3";
+  color: #e8b8f9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(106) {
+  background-color: #9f12d3;
+}
+ul.purple li:nth-child(106):hover:before {
+  content: "#9f12d3";
+  color: #e8b8f9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(107) {
+  background-color: #9f12d2;
+}
+ul.purple li:nth-child(107):hover:before {
+  content: "#9f12d2";
+  color: #e7b7f9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(108) {
+  background-color: #9f12d2;
+}
+ul.purple li:nth-child(108):hover:before {
+  content: "#9f12d2";
+  color: #e7b7f9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(109) {
+  background-color: #9f12d2;
+}
+ul.purple li:nth-child(109):hover:before {
+  content: "#9f12d2";
+  color: #e7b7f9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(110) {
+  background-color: #9f12d2;
+}
+ul.purple li:nth-child(110):hover:before {
+  content: "#9f12d2";
+  color: #e7b7f9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(111) {
+  background-color: #9e12d1;
+}
+ul.purple li:nth-child(111):hover:before {
+  content: "#9e12d1";
+  color: #e7b6f9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(112) {
+  background-color: #9e12d1;
+}
+ul.purple li:nth-child(112):hover:before {
+  content: "#9e12d1";
+  color: #e7b6f9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(113) {
+  background-color: #9e12d1;
+}
+ul.purple li:nth-child(113):hover:before {
+  content: "#9e12d1";
+  color: #e7b6f9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(114) {
+  background-color: #9e12d1;
+}
+ul.purple li:nth-child(114):hover:before {
+  content: "#9e12d1";
+  color: #e7b6f9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(115) {
+  background-color: #9e12d1;
+}
+ul.purple li:nth-child(115):hover:before {
+  content: "#9e12d1";
+  color: #e7b5f9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(116) {
+  background-color: #9d12d0;
+}
+ul.purple li:nth-child(116):hover:before {
+  content: "#9d12d0";
+  color: #e7b5f9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(117) {
+  background-color: #9d12d0;
+}
+ul.purple li:nth-child(117):hover:before {
+  content: "#9d12d0";
+  color: #e7b5f9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(118) {
+  background-color: #9d12d0;
+}
+ul.purple li:nth-child(118):hover:before {
+  content: "#9d12d0";
+  color: #e7b5f9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(119) {
+  background-color: #9d12d0;
+}
+ul.purple li:nth-child(119):hover:before {
+  content: "#9d12d0";
+  color: #e7b5f9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(120) {
+  background-color: #9d12cf;
+}
+ul.purple li:nth-child(120):hover:before {
+  content: "#9d12cf";
+  color: #e6b4f9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(121) {
+  background-color: #9d12cf;
+}
+ul.purple li:nth-child(121):hover:before {
+  content: "#9d12cf";
+  color: #e6b4f9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(122) {
+  background-color: #9c12cf;
+}
+ul.purple li:nth-child(122):hover:before {
+  content: "#9c12cf";
+  color: #e6b4f9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(123) {
+  background-color: #9c12cf;
+}
+ul.purple li:nth-child(123):hover:before {
+  content: "#9c12cf";
+  color: #e6b4f9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(124) {
+  background-color: #9c12ce;
+}
+ul.purple li:nth-child(124):hover:before {
+  content: "#9c12ce";
+  color: #e6b3f9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(125) {
+  background-color: #9c12ce;
+}
+ul.purple li:nth-child(125):hover:before {
+  content: "#9c12ce";
+  color: #e6b3f9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(126) {
+  background-color: #9c12ce;
+}
+ul.purple li:nth-child(126):hover:before {
+  content: "#9c12ce";
+  color: #e6b3f9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(127) {
+  background-color: #9b11ce;
+}
+ul.purple li:nth-child(127):hover:before {
+  content: "#9b11ce";
+  color: #e6b3f9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(128) {
+  background-color: #9b11cd;
+}
+ul.purple li:nth-child(128):hover:before {
+  content: "#9b11cd";
+  color: #e6b2f8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(129) {
+  background-color: #9b11cd;
+}
+ul.purple li:nth-child(129):hover:before {
+  content: "#9b11cd";
+  color: #e6b2f8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(130) {
+  background-color: #9b11cd;
+}
+ul.purple li:nth-child(130):hover:before {
+  content: "#9b11cd";
+  color: #e6b2f8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(131) {
+  background-color: #9b11cd;
+}
+ul.purple li:nth-child(131):hover:before {
+  content: "#9b11cd";
+  color: #e6b2f8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(132) {
+  background-color: #9b11cd;
+}
+ul.purple li:nth-child(132):hover:before {
+  content: "#9b11cd";
+  color: #e5b1f8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(133) {
+  background-color: #9a11cc;
+}
+ul.purple li:nth-child(133):hover:before {
+  content: "#9a11cc";
+  color: #e5b1f8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(134) {
+  background-color: #9a11cc;
+}
+ul.purple li:nth-child(134):hover:before {
+  content: "#9a11cc";
+  color: #e5b1f8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(135) {
+  background-color: #9a11cc;
+}
+ul.purple li:nth-child(135):hover:before {
+  content: "#9a11cc";
+  color: #e5b1f8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(136) {
+  background-color: #9a11cc;
+}
+ul.purple li:nth-child(136):hover:before {
+  content: "#9a11cc";
+  color: #e5b1f8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(137) {
+  background-color: #9a11cb;
+}
+ul.purple li:nth-child(137):hover:before {
+  content: "#9a11cb";
+  color: #e5b0f8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(138) {
+  background-color: #9a11cb;
+}
+ul.purple li:nth-child(138):hover:before {
+  content: "#9a11cb";
+  color: #e5b0f8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(139) {
+  background-color: #9911cb;
+}
+ul.purple li:nth-child(139):hover:before {
+  content: "#9911cb";
+  color: #e5b0f8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(140) {
+  background-color: #9911cb;
+}
+ul.purple li:nth-child(140):hover:before {
+  content: "#9911cb";
+  color: #e5b0f8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(141) {
+  background-color: #9911ca;
+}
+ul.purple li:nth-child(141):hover:before {
+  content: "#9911ca";
+  color: #e5aff8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(142) {
+  background-color: #9911ca;
+}
+ul.purple li:nth-child(142):hover:before {
+  content: "#9911ca";
+  color: #e5aff8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(143) {
+  background-color: #9911ca;
+}
+ul.purple li:nth-child(143):hover:before {
+  content: "#9911ca";
+  color: #e5aff8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(144) {
+  background-color: #9811ca;
+}
+ul.purple li:nth-child(144):hover:before {
+  content: "#9811ca";
+  color: #e5aff8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(145) {
+  background-color: #9811c9;
+}
+ul.purple li:nth-child(145):hover:before {
+  content: "#9811c9";
+  color: #e4aef8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(146) {
+  background-color: #9811c9;
+}
+ul.purple li:nth-child(146):hover:before {
+  content: "#9811c9";
+  color: #e4aef8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(147) {
+  background-color: #9811c9;
+}
+ul.purple li:nth-child(147):hover:before {
+  content: "#9811c9";
+  color: #e4aef8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(148) {
+  background-color: #9811c9;
+}
+ul.purple li:nth-child(148):hover:before {
+  content: "#9811c9";
+  color: #e4aef8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(149) {
+  background-color: #9811c9;
+}
+ul.purple li:nth-child(149):hover:before {
+  content: "#9811c9";
+  color: #e4adf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(150) {
+  background-color: #9711c8;
+}
+ul.purple li:nth-child(150):hover:before {
+  content: "#9711c8";
+  color: #e4adf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(151) {
+  background-color: #9711c8;
+}
+ul.purple li:nth-child(151):hover:before {
+  content: "#9711c8";
+  color: #e4adf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(152) {
+  background-color: #9711c8;
+}
+ul.purple li:nth-child(152):hover:before {
+  content: "#9711c8";
+  color: #e4adf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(153) {
+  background-color: #9711c8;
+}
+ul.purple li:nth-child(153):hover:before {
+  content: "#9711c8";
+  color: #e4adf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(154) {
+  background-color: #9711c7;
+}
+ul.purple li:nth-child(154):hover:before {
+  content: "#9711c7";
+  color: #e4acf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(155) {
+  background-color: #9711c7;
+}
+ul.purple li:nth-child(155):hover:before {
+  content: "#9711c7";
+  color: #e4acf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(156) {
+  background-color: #9611c7;
+}
+ul.purple li:nth-child(156):hover:before {
+  content: "#9611c7";
+  color: #e4acf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(157) {
+  background-color: #9611c7;
+}
+ul.purple li:nth-child(157):hover:before {
+  content: "#9611c7";
+  color: #e4acf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(158) {
+  background-color: #9611c6;
+}
+ul.purple li:nth-child(158):hover:before {
+  content: "#9611c6";
+  color: #e3abf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(159) {
+  background-color: #9611c6;
+}
+ul.purple li:nth-child(159):hover:before {
+  content: "#9611c6";
+  color: #e3abf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(160) {
+  background-color: #9611c6;
+}
+ul.purple li:nth-child(160):hover:before {
+  content: "#9611c6";
+  color: #e3abf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(161) {
+  background-color: #9511c6;
+}
+ul.purple li:nth-child(161):hover:before {
+  content: "#9511c6";
+  color: #e3abf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(162) {
+  background-color: #9511c5;
+}
+ul.purple li:nth-child(162):hover:before {
+  content: "#9511c5";
+  color: #e3aaf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(163) {
+  background-color: #9511c5;
+}
+ul.purple li:nth-child(163):hover:before {
+  content: "#9511c5";
+  color: #e3aaf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(164) {
+  background-color: #9511c5;
+}
+ul.purple li:nth-child(164):hover:before {
+  content: "#9511c5";
+  color: #e3aaf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(165) {
+  background-color: #9511c5;
+}
+ul.purple li:nth-child(165):hover:before {
+  content: "#9511c5";
+  color: #e3aaf8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(166) {
+  background-color: #9511c5;
+}
+ul.purple li:nth-child(166):hover:before {
+  content: "#9511c5";
+  color: #e3a9f8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(167) {
+  background-color: #9411c4;
+}
+ul.purple li:nth-child(167):hover:before {
+  content: "#9411c4";
+  color: #e3a9f8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(168) {
+  background-color: #9411c4;
+}
+ul.purple li:nth-child(168):hover:before {
+  content: "#9411c4";
+  color: #e3a9f8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(169) {
+  background-color: #9411c4;
+}
+ul.purple li:nth-child(169):hover:before {
+  content: "#9411c4";
+  color: #e3a9f8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(170) {
+  background-color: #9411c4;
+}
+ul.purple li:nth-child(170):hover:before {
+  content: "#9411c4";
+  color: #e3a9f8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(171) {
+  background-color: #9411c3;
+}
+ul.purple li:nth-child(171):hover:before {
+  content: "#9411c3";
+  color: #e2a8f8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(172) {
+  background-color: #9411c3;
+}
+ul.purple li:nth-child(172):hover:before {
+  content: "#9411c3";
+  color: #e2a8f8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(173) {
+  background-color: #9311c3;
+}
+ul.purple li:nth-child(173):hover:before {
+  content: "#9311c3";
+  color: #e2a8f8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(174) {
+  background-color: #9311c3;
+}
+ul.purple li:nth-child(174):hover:before {
+  content: "#9311c3";
+  color: #e2a8f8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(175) {
+  background-color: #9311c2;
+}
+ul.purple li:nth-child(175):hover:before {
+  content: "#9311c2";
+  color: #e2a7f8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(176) {
+  background-color: #9311c2;
+}
+ul.purple li:nth-child(176):hover:before {
+  content: "#9311c2";
+  color: #e2a7f8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(177) {
+  background-color: #9310c2;
+}
+ul.purple li:nth-child(177):hover:before {
+  content: "#9310c2";
+  color: #e2a7f8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(178) {
+  background-color: #9210c2;
+}
+ul.purple li:nth-child(178):hover:before {
+  content: "#9210c2";
+  color: #e2a7f7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(179) {
+  background-color: #9210c1;
+}
+ul.purple li:nth-child(179):hover:before {
+  content: "#9210c1";
+  color: #e2a6f7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(180) {
+  background-color: #9210c1;
+}
+ul.purple li:nth-child(180):hover:before {
+  content: "#9210c1";
+  color: #e2a6f7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(181) {
+  background-color: #9210c1;
+}
+ul.purple li:nth-child(181):hover:before {
+  content: "#9210c1";
+  color: #e2a6f7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(182) {
+  background-color: #9210c1;
+}
+ul.purple li:nth-child(182):hover:before {
+  content: "#9210c1";
+  color: #e2a6f7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(183) {
+  background-color: #9210c1;
+}
+ul.purple li:nth-child(183):hover:before {
+  content: "#9210c1";
+  color: #e2a5f7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(184) {
+  background-color: #9110c0;
+}
+ul.purple li:nth-child(184):hover:before {
+  content: "#9110c0";
+  color: #e1a5f7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(185) {
+  background-color: #9110c0;
+}
+ul.purple li:nth-child(185):hover:before {
+  content: "#9110c0";
+  color: #e1a5f7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(186) {
+  background-color: #9110c0;
+}
+ul.purple li:nth-child(186):hover:before {
+  content: "#9110c0";
+  color: #e1a5f7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(187) {
+  background-color: #9110c0;
+}
+ul.purple li:nth-child(187):hover:before {
+  content: "#9110c0";
+  color: #e1a5f7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(188) {
+  background-color: #9110bf;
+}
+ul.purple li:nth-child(188):hover:before {
+  content: "#9110bf";
+  color: #e1a4f7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(189) {
+  background-color: #9010bf;
+}
+ul.purple li:nth-child(189):hover:before {
+  content: "#9010bf";
+  color: #e1a4f7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(190) {
+  background-color: #9010bf;
+}
+ul.purple li:nth-child(190):hover:before {
+  content: "#9010bf";
+  color: #e1a4f7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(191) {
+  background-color: #9010bf;
+}
+ul.purple li:nth-child(191):hover:before {
+  content: "#9010bf";
+  color: #e1a4f7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(192) {
+  background-color: #9010be;
+}
+ul.purple li:nth-child(192):hover:before {
+  content: "#9010be";
+  color: #e1a3f7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(193) {
+  background-color: #9010be;
+}
+ul.purple li:nth-child(193):hover:before {
+  content: "#9010be";
+  color: #e1a3f7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(194) {
+  background-color: #9010be;
+}
+ul.purple li:nth-child(194):hover:before {
+  content: "#9010be";
+  color: #e1a3f7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(195) {
+  background-color: #8f10be;
+}
+ul.purple li:nth-child(195):hover:before {
+  content: "#8f10be";
+  color: #e1a3f7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(196) {
+  background-color: #8f10bd;
+}
+ul.purple li:nth-child(196):hover:before {
+  content: "#8f10bd";
+  color: #e1a2f7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(197) {
+  background-color: #8f10bd;
+}
+ul.purple li:nth-child(197):hover:before {
+  content: "#8f10bd";
+  color: #e0a2f7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(198) {
+  background-color: #8f10bd;
+}
+ul.purple li:nth-child(198):hover:before {
+  content: "#8f10bd";
+  color: #e0a2f7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(199) {
+  background-color: #8f10bd;
+}
+ul.purple li:nth-child(199):hover:before {
+  content: "#8f10bd";
+  color: #e0a2f7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(200) {
+  background-color: #8f10bd;
+}
+ul.purple li:nth-child(200):hover:before {
+  content: "#8f10bd";
+  color: #e0a2f7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(201) {
+  background-color: #8e10bc;
+}
+ul.purple li:nth-child(201):hover:before {
+  content: "#8e10bc";
+  color: #e0a1f7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.purple li:nth-child(11) {
+  background-color: #a012d4;
+}
+
+ul.black li:nth-child(10) {
+  background-color: #848484;
+}
+ul.black li:nth-child(10):hover:before {
+  content: "#848484";
+  color: #1e1e1e;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(9) {
+  background-color: #919191;
+}
+ul.black li:nth-child(9):hover:before {
+  content: "#919191";
+  color: #2b2b2b;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(8) {
+  background-color: #9d9d9d;
+}
+ul.black li:nth-child(8):hover:before {
+  content: "#9d9d9d";
+  color: #373737;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(7) {
+  background-color: #aaaaaa;
+}
+ul.black li:nth-child(7):hover:before {
+  content: "#aaaaaa";
+  color: #444444;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(6) {
+  background-color: #b7b7b7;
+}
+ul.black li:nth-child(6):hover:before {
+  content: "#b7b7b7";
+  color: #515151;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(5) {
+  background-color: #c4c4c4;
+}
+ul.black li:nth-child(5):hover:before {
+  content: "#c4c4c4";
+  color: #5e5e5e;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(4) {
+  background-color: #d0d0d0;
+}
+ul.black li:nth-child(4):hover:before {
+  content: "#d0d0d0";
+  color: #6a6a6a;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(3) {
+  background-color: #dddddd;
+}
+ul.black li:nth-child(3):hover:before {
+  content: "#dddddd";
+  color: #777777;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(2) {
+  background-color: #eaeaea;
+}
+ul.black li:nth-child(2):hover:before {
+  content: "#eaeaea";
+  color: #848484;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(1) {
+  background-color: #f7f7f7;
+}
+ul.black li:nth-child(1):hover:before {
+  content: "#f7f7f7";
+  color: #919191;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(102) {
+  background-color: #777777;
+}
+ul.black li:nth-child(102):hover:before {
+  content: "#777777";
+  color: #dddddd;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(103) {
+  background-color: #777777;
+}
+ul.black li:nth-child(103):hover:before {
+  content: "#777777";
+  color: #dddddd;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(104) {
+  background-color: #777777;
+}
+ul.black li:nth-child(104):hover:before {
+  content: "#777777";
+  color: #dddddd;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(105) {
+  background-color: #767676;
+}
+ul.black li:nth-child(105):hover:before {
+  content: "#767676";
+  color: gainsboro;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(106) {
+  background-color: #767676;
+}
+ul.black li:nth-child(106):hover:before {
+  content: "#767676";
+  color: gainsboro;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(107) {
+  background-color: #767676;
+}
+ul.black li:nth-child(107):hover:before {
+  content: "#767676";
+  color: gainsboro;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(108) {
+  background-color: #767676;
+}
+ul.black li:nth-child(108):hover:before {
+  content: "#767676";
+  color: gainsboro;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(109) {
+  background-color: #767676;
+}
+ul.black li:nth-child(109):hover:before {
+  content: "#767676";
+  color: gainsboro;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(110) {
+  background-color: #767676;
+}
+ul.black li:nth-child(110):hover:before {
+  content: "#767676";
+  color: gainsboro;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(111) {
+  background-color: #767676;
+}
+ul.black li:nth-child(111):hover:before {
+  content: "#767676";
+  color: gainsboro;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(112) {
+  background-color: #767676;
+}
+ul.black li:nth-child(112):hover:before {
+  content: "#767676";
+  color: gainsboro;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(113) {
+  background-color: #757575;
+}
+ul.black li:nth-child(113):hover:before {
+  content: "#757575";
+  color: #dbdbdb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(114) {
+  background-color: #757575;
+}
+ul.black li:nth-child(114):hover:before {
+  content: "#757575";
+  color: #dbdbdb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(115) {
+  background-color: #757575;
+}
+ul.black li:nth-child(115):hover:before {
+  content: "#757575";
+  color: #dbdbdb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(116) {
+  background-color: #757575;
+}
+ul.black li:nth-child(116):hover:before {
+  content: "#757575";
+  color: #dbdbdb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(117) {
+  background-color: #757575;
+}
+ul.black li:nth-child(117):hover:before {
+  content: "#757575";
+  color: #dbdbdb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(118) {
+  background-color: #757575;
+}
+ul.black li:nth-child(118):hover:before {
+  content: "#757575";
+  color: #dbdbdb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(119) {
+  background-color: #757575;
+}
+ul.black li:nth-child(119):hover:before {
+  content: "#757575";
+  color: #dbdbdb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(120) {
+  background-color: #757575;
+}
+ul.black li:nth-child(120):hover:before {
+  content: "#757575";
+  color: #dbdbdb;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(121) {
+  background-color: #747474;
+}
+ul.black li:nth-child(121):hover:before {
+  content: "#747474";
+  color: #dadada;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(122) {
+  background-color: #747474;
+}
+ul.black li:nth-child(122):hover:before {
+  content: "#747474";
+  color: #dadada;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(123) {
+  background-color: #747474;
+}
+ul.black li:nth-child(123):hover:before {
+  content: "#747474";
+  color: #dadada;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(124) {
+  background-color: #747474;
+}
+ul.black li:nth-child(124):hover:before {
+  content: "#747474";
+  color: #dadada;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(125) {
+  background-color: #747474;
+}
+ul.black li:nth-child(125):hover:before {
+  content: "#747474";
+  color: #dadada;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(126) {
+  background-color: #747474;
+}
+ul.black li:nth-child(126):hover:before {
+  content: "#747474";
+  color: #dadada;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(127) {
+  background-color: #747474;
+}
+ul.black li:nth-child(127):hover:before {
+  content: "#747474";
+  color: #dadada;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(128) {
+  background-color: #747474;
+}
+ul.black li:nth-child(128):hover:before {
+  content: "#747474";
+  color: #dadada;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(129) {
+  background-color: #737373;
+}
+ul.black li:nth-child(129):hover:before {
+  content: "#737373";
+  color: #d9d9d9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(130) {
+  background-color: #737373;
+}
+ul.black li:nth-child(130):hover:before {
+  content: "#737373";
+  color: #d9d9d9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(131) {
+  background-color: #737373;
+}
+ul.black li:nth-child(131):hover:before {
+  content: "#737373";
+  color: #d9d9d9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(132) {
+  background-color: #737373;
+}
+ul.black li:nth-child(132):hover:before {
+  content: "#737373";
+  color: #d9d9d9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(133) {
+  background-color: #737373;
+}
+ul.black li:nth-child(133):hover:before {
+  content: "#737373";
+  color: #d9d9d9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(134) {
+  background-color: #737373;
+}
+ul.black li:nth-child(134):hover:before {
+  content: "#737373";
+  color: #d9d9d9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(135) {
+  background-color: #737373;
+}
+ul.black li:nth-child(135):hover:before {
+  content: "#737373";
+  color: #d9d9d9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(136) {
+  background-color: #737373;
+}
+ul.black li:nth-child(136):hover:before {
+  content: "#737373";
+  color: #d9d9d9;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(137) {
+  background-color: #727272;
+}
+ul.black li:nth-child(137):hover:before {
+  content: "#727272";
+  color: #d8d8d8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(138) {
+  background-color: #727272;
+}
+ul.black li:nth-child(138):hover:before {
+  content: "#727272";
+  color: #d8d8d8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(139) {
+  background-color: #727272;
+}
+ul.black li:nth-child(139):hover:before {
+  content: "#727272";
+  color: #d8d8d8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(140) {
+  background-color: #727272;
+}
+ul.black li:nth-child(140):hover:before {
+  content: "#727272";
+  color: #d8d8d8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(141) {
+  background-color: #727272;
+}
+ul.black li:nth-child(141):hover:before {
+  content: "#727272";
+  color: #d8d8d8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(142) {
+  background-color: #727272;
+}
+ul.black li:nth-child(142):hover:before {
+  content: "#727272";
+  color: #d8d8d8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(143) {
+  background-color: #727272;
+}
+ul.black li:nth-child(143):hover:before {
+  content: "#727272";
+  color: #d8d8d8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(144) {
+  background-color: #727272;
+}
+ul.black li:nth-child(144):hover:before {
+  content: "#727272";
+  color: #d8d8d8;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(145) {
+  background-color: #717171;
+}
+ul.black li:nth-child(145):hover:before {
+  content: "#717171";
+  color: #d7d7d7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(146) {
+  background-color: #717171;
+}
+ul.black li:nth-child(146):hover:before {
+  content: "#717171";
+  color: #d7d7d7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(147) {
+  background-color: #717171;
+}
+ul.black li:nth-child(147):hover:before {
+  content: "#717171";
+  color: #d7d7d7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(148) {
+  background-color: #717171;
+}
+ul.black li:nth-child(148):hover:before {
+  content: "#717171";
+  color: #d7d7d7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(149) {
+  background-color: #717171;
+}
+ul.black li:nth-child(149):hover:before {
+  content: "#717171";
+  color: #d7d7d7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(150) {
+  background-color: #717171;
+}
+ul.black li:nth-child(150):hover:before {
+  content: "#717171";
+  color: #d7d7d7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(151) {
+  background-color: #717171;
+}
+ul.black li:nth-child(151):hover:before {
+  content: "#717171";
+  color: #d7d7d7;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(152) {
+  background-color: #707070;
+}
+ul.black li:nth-child(152):hover:before {
+  content: "#707070";
+  color: #d6d6d6;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(153) {
+  background-color: #707070;
+}
+ul.black li:nth-child(153):hover:before {
+  content: "#707070";
+  color: #d6d6d6;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(154) {
+  background-color: #707070;
+}
+ul.black li:nth-child(154):hover:before {
+  content: "#707070";
+  color: #d6d6d6;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(155) {
+  background-color: #707070;
+}
+ul.black li:nth-child(155):hover:before {
+  content: "#707070";
+  color: #d6d6d6;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(156) {
+  background-color: #707070;
+}
+ul.black li:nth-child(156):hover:before {
+  content: "#707070";
+  color: #d6d6d6;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(157) {
+  background-color: #707070;
+}
+ul.black li:nth-child(157):hover:before {
+  content: "#707070";
+  color: #d6d6d6;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(158) {
+  background-color: #707070;
+}
+ul.black li:nth-child(158):hover:before {
+  content: "#707070";
+  color: #d6d6d6;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(159) {
+  background-color: #707070;
+}
+ul.black li:nth-child(159):hover:before {
+  content: "#707070";
+  color: #d6d6d6;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(160) {
+  background-color: #6f6f6f;
+}
+ul.black li:nth-child(160):hover:before {
+  content: "#6f6f6f";
+  color: #d5d5d5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(161) {
+  background-color: #6f6f6f;
+}
+ul.black li:nth-child(161):hover:before {
+  content: "#6f6f6f";
+  color: #d5d5d5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(162) {
+  background-color: #6f6f6f;
+}
+ul.black li:nth-child(162):hover:before {
+  content: "#6f6f6f";
+  color: #d5d5d5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(163) {
+  background-color: #6f6f6f;
+}
+ul.black li:nth-child(163):hover:before {
+  content: "#6f6f6f";
+  color: #d5d5d5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(164) {
+  background-color: #6f6f6f;
+}
+ul.black li:nth-child(164):hover:before {
+  content: "#6f6f6f";
+  color: #d5d5d5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(165) {
+  background-color: #6f6f6f;
+}
+ul.black li:nth-child(165):hover:before {
+  content: "#6f6f6f";
+  color: #d5d5d5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(166) {
+  background-color: #6f6f6f;
+}
+ul.black li:nth-child(166):hover:before {
+  content: "#6f6f6f";
+  color: #d5d5d5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(167) {
+  background-color: #6f6f6f;
+}
+ul.black li:nth-child(167):hover:before {
+  content: "#6f6f6f";
+  color: #d5d5d5;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(168) {
+  background-color: #6e6e6e;
+}
+ul.black li:nth-child(168):hover:before {
+  content: "#6e6e6e";
+  color: #d4d4d4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(169) {
+  background-color: #6e6e6e;
+}
+ul.black li:nth-child(169):hover:before {
+  content: "#6e6e6e";
+  color: #d4d4d4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(170) {
+  background-color: #6e6e6e;
+}
+ul.black li:nth-child(170):hover:before {
+  content: "#6e6e6e";
+  color: #d4d4d4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(171) {
+  background-color: #6e6e6e;
+}
+ul.black li:nth-child(171):hover:before {
+  content: "#6e6e6e";
+  color: #d4d4d4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(172) {
+  background-color: #6e6e6e;
+}
+ul.black li:nth-child(172):hover:before {
+  content: "#6e6e6e";
+  color: #d4d4d4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(173) {
+  background-color: #6e6e6e;
+}
+ul.black li:nth-child(173):hover:before {
+  content: "#6e6e6e";
+  color: #d4d4d4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(174) {
+  background-color: #6e6e6e;
+}
+ul.black li:nth-child(174):hover:before {
+  content: "#6e6e6e";
+  color: #d4d4d4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(175) {
+  background-color: #6e6e6e;
+}
+ul.black li:nth-child(175):hover:before {
+  content: "#6e6e6e";
+  color: #d4d4d4;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(176) {
+  background-color: #6d6d6d;
+}
+ul.black li:nth-child(176):hover:before {
+  content: "#6d6d6d";
+  color: lightgray;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(177) {
+  background-color: #6d6d6d;
+}
+ul.black li:nth-child(177):hover:before {
+  content: "#6d6d6d";
+  color: lightgray;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(178) {
+  background-color: #6d6d6d;
+}
+ul.black li:nth-child(178):hover:before {
+  content: "#6d6d6d";
+  color: lightgray;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(179) {
+  background-color: #6d6d6d;
+}
+ul.black li:nth-child(179):hover:before {
+  content: "#6d6d6d";
+  color: lightgray;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(180) {
+  background-color: #6d6d6d;
+}
+ul.black li:nth-child(180):hover:before {
+  content: "#6d6d6d";
+  color: lightgray;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(181) {
+  background-color: #6d6d6d;
+}
+ul.black li:nth-child(181):hover:before {
+  content: "#6d6d6d";
+  color: lightgray;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(182) {
+  background-color: #6d6d6d;
+}
+ul.black li:nth-child(182):hover:before {
+  content: "#6d6d6d";
+  color: lightgray;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(183) {
+  background-color: #6d6d6d;
+}
+ul.black li:nth-child(183):hover:before {
+  content: "#6d6d6d";
+  color: lightgray;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(184) {
+  background-color: #6c6c6c;
+}
+ul.black li:nth-child(184):hover:before {
+  content: "#6c6c6c";
+  color: #d2d2d2;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(185) {
+  background-color: #6c6c6c;
+}
+ul.black li:nth-child(185):hover:before {
+  content: "#6c6c6c";
+  color: #d2d2d2;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(186) {
+  background-color: #6c6c6c;
+}
+ul.black li:nth-child(186):hover:before {
+  content: "#6c6c6c";
+  color: #d2d2d2;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(187) {
+  background-color: #6c6c6c;
+}
+ul.black li:nth-child(187):hover:before {
+  content: "#6c6c6c";
+  color: #d2d2d2;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(188) {
+  background-color: #6c6c6c;
+}
+ul.black li:nth-child(188):hover:before {
+  content: "#6c6c6c";
+  color: #d2d2d2;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(189) {
+  background-color: #6c6c6c;
+}
+ul.black li:nth-child(189):hover:before {
+  content: "#6c6c6c";
+  color: #d2d2d2;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(190) {
+  background-color: #6c6c6c;
+}
+ul.black li:nth-child(190):hover:before {
+  content: "#6c6c6c";
+  color: #d2d2d2;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(191) {
+  background-color: #6c6c6c;
+}
+ul.black li:nth-child(191):hover:before {
+  content: "#6c6c6c";
+  color: #d2d2d2;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(192) {
+  background-color: #6b6b6b;
+}
+ul.black li:nth-child(192):hover:before {
+  content: "#6b6b6b";
+  color: #d1d1d1;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(193) {
+  background-color: #6b6b6b;
+}
+ul.black li:nth-child(193):hover:before {
+  content: "#6b6b6b";
+  color: #d1d1d1;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(194) {
+  background-color: #6b6b6b;
+}
+ul.black li:nth-child(194):hover:before {
+  content: "#6b6b6b";
+  color: #d1d1d1;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(195) {
+  background-color: #6b6b6b;
+}
+ul.black li:nth-child(195):hover:before {
+  content: "#6b6b6b";
+  color: #d1d1d1;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(196) {
+  background-color: #6b6b6b;
+}
+ul.black li:nth-child(196):hover:before {
+  content: "#6b6b6b";
+  color: #d1d1d1;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(197) {
+  background-color: #6b6b6b;
+}
+ul.black li:nth-child(197):hover:before {
+  content: "#6b6b6b";
+  color: #d1d1d1;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(198) {
+  background-color: #6b6b6b;
+}
+ul.black li:nth-child(198):hover:before {
+  content: "#6b6b6b";
+  color: #d1d1d1;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(199) {
+  background-color: #6b6b6b;
+}
+ul.black li:nth-child(199):hover:before {
+  content: "#6b6b6b";
+  color: #d1d1d1;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(200) {
+  background-color: #6a6a6a;
+}
+ul.black li:nth-child(200):hover:before {
+  content: "#6a6a6a";
+  color: #d0d0d0;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(201) {
+  background-color: #6a6a6a;
+}
+ul.black li:nth-child(201):hover:before {
+  content: "#6a6a6a";
+  color: #d0d0d0;
+  font-family: sans-serif;
+  font-size: 8px;
+  padding: 2px;
+}
+ul.black li:nth-child(11) {
+  background-color: #777;
+}
+
+/*# sourceMappingURL=index.css.map */
